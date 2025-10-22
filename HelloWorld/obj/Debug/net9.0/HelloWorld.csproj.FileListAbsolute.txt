@@ -1,0 +1,15 @@
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
