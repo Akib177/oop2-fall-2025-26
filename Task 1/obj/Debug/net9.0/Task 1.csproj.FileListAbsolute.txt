@@ -1,0 +1,15 @@
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\bin\Debug\net9.0\Task 1.exe
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\bin\Debug\net9.0\Task 1.deps.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\bin\Debug\net9.0\Task 1.runtimeconfig.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\bin\Debug\net9.0\Task 1.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\bin\Debug\net9.0\Task 1.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfoInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfo.cs
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\Task 1.csproj.CoreCompileInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\Task 1.sourcelink.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\Task 1.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\refint\Task 1.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\Task 1.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\Task 1.genruntimeconfig.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Task 1\obj\Debug\net9.0\ref\Task 1.dll
