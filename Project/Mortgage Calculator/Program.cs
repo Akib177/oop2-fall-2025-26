@@ -21,6 +21,7 @@ while (true)
     }   
 }
 
+
 while (true)
 {
     Console.Write("Enter your credit score: ");
