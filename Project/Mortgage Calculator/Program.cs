@@ -1,33 +1,16 @@
-﻿
-// See https://aka.ms/new-console-template for more information
+﻿// See https://aka.ms/new-console-template for more information
 
 using System.Globalization;
 
 
-<<<<<<< HEAD
-double salary = 0f;
-double creditscore = 0f;
-Boolean criminalrecord = false;
-=======
 double salary = 0f; 
 double creditscore = 0f;    
 Boolean criminalrecord = false; 
->>>>>>> 99c8905338834f580eedbbe426acf35700309b7c
 
 while (true)
 {
     Console.Write("Enter your salary: ");
     string salaryinput = (Console.ReadLine() ?? string.Empty).Trim();
-<<<<<<< HEAD
-    if (double.TryParse(salaryinput, out salary))
-    {
-        break;
-    }
-    else
-    {
-        Console.WriteLine("Invalid input. Please enter numerical values.");
-    }
-=======
     if(double.TryParse(salaryinput, out salary))
     {
         break;
@@ -36,8 +19,8 @@ while (true)
     {
         Console.WriteLine("Invalid input. Please enter numerical values.");
     }   
->>>>>>> 99c8905338834f580eedbbe426acf35700309b7c
 }
+
 
 while (true)
 {
@@ -62,39 +45,18 @@ while (true)
     //{
     //    Console.WriteLine("Credit score must be between 0 and 500.");
     //}
-<<<<<<< HEAD
-    else
-=======
     else 
->>>>>>> 99c8905338834f580eedbbe426acf35700309b7c
     {
         Console.WriteLine("Invalid input. Please enter a numericlal values.");
     }
 
-<<<<<<< HEAD
-}
-
-while (true)
-=======
     }
 
 while(true)
->>>>>>> 99c8905338834f580eedbbe426acf35700309b7c
 {
     Console.Write("Do you have a criminal record? (true/false): ");
     string criminlrecords = (Console.ReadLine() ?? string.Empty).Trim().ToLower();
 
-<<<<<<< HEAD
-    if (criminlrecords == "false")
-    {
-        Console.WriteLine("You are eligible for loan!");
-        break;
-    }
-    else
-    {
-        Console.WriteLine("Please write true/false");
-    }
-=======
         if(criminlrecords == "false")
         {
             Console.WriteLine("You are eligible for loan!");
@@ -104,7 +66,6 @@ while(true)
         {
             Console.WriteLine("Please write true/false");
         }           
->>>>>>> 99c8905338834f580eedbbe426acf35700309b7c
 }
 
 Console.Write("Enter loan ammount: ");
@@ -146,8 +107,4 @@ else
 {
     Console.WriteLine("Your loan must be in between twice of your salary.");
     Console.WriteLine("Sorry! You are not eligible for this ammount.");
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 99c8905338834f580eedbbe426acf35700309b7c
