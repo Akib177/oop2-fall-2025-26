@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Adnan Akib\\Documents\\Developer\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\",
+  "WorkspaceRootPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C268084-69CE-4954-B845-11CC2A5B3AE2}|Mortgage Calculator.csproj|c:\\users\\adnan akib\\documents\\developer\\oop2-fall-2025-26\\project\\mortgage calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C268084-69CE-4954-B845-11CC2A5B3AE2}|Mortgage Calculator.csproj|d:\\education\\7th semester  (fall 25-26)\\oop 2 (c#)\\oop2-fall-2025-26\\project\\mortgage calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C268084-69CE-4954-B845-11CC2A5B3AE2}|Mortgage Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Adnan Akib\\Documents\\Developer\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\Program.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Adnan Akib\\Documents\\Developer\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\Program.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\Program.cs",
               "RelativeToolTip": "Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+>>>>>>> 92818df7c73c9ff5af23597fc6dee8b365d267d3
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T07:11:56.182Z",
               "EditorCaption": ""

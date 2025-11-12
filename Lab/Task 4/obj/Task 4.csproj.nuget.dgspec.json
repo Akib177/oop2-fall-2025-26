@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Task 4\\Task 4.csproj": {}
+    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Task 4\\Task 4.csproj": {}
   },
   "projects": {
-    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Task 4\\Task 4.csproj": {
+    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Task 4\\Task 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Task 4\\Task 4.csproj",
+        "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Task 4\\Task 4.csproj",
         "projectName": "Task 4",
-        "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Task 4\\Task 4.csproj",
-        "packagesPath": "C:\\Users\\Adnan Akib\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Task 4\\obj\\",
+        "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Task 4\\Task 4.csproj",
+        "packagesPath": "C:\\Users\\USERAS\\.nuget\\packages\\",
+        "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Task 4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Adnan Akib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USERAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

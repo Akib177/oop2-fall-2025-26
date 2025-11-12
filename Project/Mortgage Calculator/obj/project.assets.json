@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Adnan Akib\\.nuget\\packages\\": {}
+    "C:\\Users\\USERAS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adnan Akib\\Documents\\Developer\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\Mortgage Calculator.csproj",
+      "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\Mortgage Calculator.csproj",
       "projectName": "Mortgage Calculator",
-      "projectPath": "C:\\Users\\Adnan Akib\\Documents\\Developer\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\Mortgage Calculator.csproj",
-      "packagesPath": "C:\\Users\\Adnan Akib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adnan Akib\\Documents\\Developer\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\obj\\",
+      "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\Mortgage Calculator.csproj",
+      "packagesPath": "C:\\Users\\USERAS\\.nuget\\packages\\",
+      "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\Mortgage Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Adnan Akib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USERAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

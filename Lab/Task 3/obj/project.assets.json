@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Adnan Akib\\.nuget\\packages\\": {}
+    "C:\\Users\\USERAS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Task 3\\Task 3.csproj",
+      "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Task 3\\Task 3.csproj",
       "projectName": "Task 3",
-      "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Task 3\\Task 3.csproj",
-      "packagesPath": "C:\\Users\\Adnan Akib\\.nuget\\packages\\",
-      "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Task 3\\obj\\",
+      "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Task 3\\Task 3.csproj",
+      "packagesPath": "C:\\Users\\USERAS\\.nuget\\packages\\",
+      "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Task 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Adnan Akib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USERAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
