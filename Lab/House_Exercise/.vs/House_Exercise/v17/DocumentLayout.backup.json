@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adnan Akib\\Documents\\Developer\\oop2-fall-2025-26\\Lab\\House_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B195EA-85B4-4756-BAD4-FFA4494A205D}|House_Exercise.csproj|c:\\users\\adnan akib\\documents\\developer\\oop2-fall-2025-26\\lab\\house_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B195EA-85B4-4756-BAD4-FFA4494A205D}|House_Exercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adnan Akib\\Documents\\Developer\\oop2-fall-2025-26\\Lab\\House_Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Adnan Akib\\Documents\\Developer\\oop2-fall-2025-26\\Lab\\House_Exercise\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:58:45.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
