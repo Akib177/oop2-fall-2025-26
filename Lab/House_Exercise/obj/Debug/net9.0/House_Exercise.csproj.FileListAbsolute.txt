@@ -1,0 +1,30 @@
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.AssemblyInfoInputs.cache
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.AssemblyInfo.cs
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.sourcelink.json
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.exe
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.deps.json
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.runtimeconfig.json
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.dll
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.pdb
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.dll
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\refint\House_Exercise.dll
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.pdb
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.genruntimeconfig.cache
+C:\Users\Adnan Akib\Documents\Developer\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\ref\House_Exercise.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.exe
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.deps.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.runtimeconfig.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\bin\Debug\net9.0\House_Exercise.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.AssemblyInfoInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.AssemblyInfo.cs
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.csproj.CoreCompileInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.sourcelink.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\refint\House_Exercise.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\House_Exercise.genruntimeconfig.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab\House_Exercise\obj\Debug\net9.0\ref\House_Exercise.dll
