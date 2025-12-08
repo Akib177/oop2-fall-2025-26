@@ -36,8 +36,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Employee m = new Manager(15000);
-        Employee w = new Worker(10000);
+        Employee m = new Manager(10000);
+        Employee w = new Worker(5000);
 
         Console.WriteLine("Manager Total Salary: " + m.GetTotalSalary());
         Console.WriteLine("Worker Total Salary: " + w.GetTotalSalary());

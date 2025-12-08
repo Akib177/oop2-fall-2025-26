@@ -28,8 +28,8 @@ class Program
         Payment p1 = new BkashPayment();
         Payment p2 = new CreditCardPayment();
 
-        p1.ProcessPayment(1500.50);
-        p2.ProcessPayment(2500.00);
+        p1.ProcessPayment(1000.50);
+        p2.ProcessPayment(1000);
 
     }
 }

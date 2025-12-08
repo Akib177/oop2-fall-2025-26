@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Employee\\Employee.csproj",
+      "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Employee\\Employee.csproj",
       "projectName": "Employee",
-      "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Employee\\Employee.csproj",
+      "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Employee\\Employee.csproj",
       "packagesPath": "C:\\Users\\USERAS\\.nuget\\packages\\",
-      "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Employee\\obj\\",
+      "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Employee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USERAS\\AppData\\Roaming\\NuGet\\NuGet.Config",

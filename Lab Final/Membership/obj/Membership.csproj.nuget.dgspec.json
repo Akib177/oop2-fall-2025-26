@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Membership\\Membership.csproj": {}
+    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Membership\\Membership.csproj": {}
   },
   "projects": {
-    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Membership\\Membership.csproj": {
+    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Membership\\Membership.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Membership\\Membership.csproj",
+        "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Membership\\Membership.csproj",
         "projectName": "Membership",
-        "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Membership\\Membership.csproj",
+        "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Membership\\Membership.csproj",
         "packagesPath": "C:\\Users\\USERAS\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Membership\\obj\\",
+        "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Membership\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USERAS\\AppData\\Roaming\\NuGet\\NuGet.Config",

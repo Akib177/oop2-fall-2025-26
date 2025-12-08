@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Employee\\",
+  "WorkspaceRootPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Employee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14156B9E-61CD-4D5B-A002-62D7DF890D1E}|Employee.csproj|d:\\education\\7th semester  (fall 25-26)\\oop 2 (c#)\\oop2-fall-2025-26\\lab\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14156B9E-61CD-4D5B-A002-62D7DF890D1E}|Employee.csproj|d:\\education\\7th semester  (fall 25-26)\\oop 2 (c#)\\oop2-fall-2025-26\\lab final\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14156B9E-61CD-4D5B-A002-62D7DF890D1E}|Employee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Employee\\Program.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Employee\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Employee\\Program.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Employee\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T14:12:51.617Z",
               "EditorCaption": ""

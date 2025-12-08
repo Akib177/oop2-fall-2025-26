@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Payment\\Payment.csproj": {}
+    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Payment\\Payment.csproj": {}
   },
   "projects": {
-    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Payment\\Payment.csproj": {
+    "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Payment\\Payment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Payment\\Payment.csproj",
+        "projectUniqueName": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Payment\\Payment.csproj",
         "projectName": "Payment",
-        "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Payment\\Payment.csproj",
+        "projectPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Payment\\Payment.csproj",
         "packagesPath": "C:\\Users\\USERAS\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab\\Payment\\obj\\",
+        "outputPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Lab Final\\Payment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USERAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
