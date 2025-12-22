@@ -13,3 +13,18 @@ D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\S
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System\obj\Debug\net9.0\Student Record System.pdb
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System\obj\Debug\net9.0\Student Record System.genruntimeconfig.cache
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System\obj\Debug\net9.0\ref\Student Record System.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\bin\Debug\net9.0\Student Record System.exe
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\bin\Debug\net9.0\Student Record System.deps.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\bin\Debug\net9.0\Student Record System.runtimeconfig.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\bin\Debug\net9.0\Student Record System.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\bin\Debug\net9.0\Student Record System.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\Student Record System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\Student Record System.AssemblyInfoInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\Student Record System.AssemblyInfo.cs
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\Student Record System.csproj.CoreCompileInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\Student Record System.sourcelink.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\Student Record System.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\refint\Student Record System.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\Student Record System.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\Student Record System.genruntimeconfig.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Student Record System (Interface & Indexer)\obj\Debug\net9.0\ref\Student Record System.dll

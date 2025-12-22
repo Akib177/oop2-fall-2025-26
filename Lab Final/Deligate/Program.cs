@@ -15,6 +15,14 @@ class Program
     {
         return a - b;
     }
+    static int mul(int a, int b)
+    {
+        return a * b;
+    }
+    static int div(int a, int b)
+    {
+        return a / b;
+    }
 
     static void Calculate(int a, int b, Operation op)
     {
@@ -26,6 +34,8 @@ class Program
     {
         Calculate(10, 20, add);
         Calculate(15, 5, sub);
+        Calculate (4, 6, mul);
+        Calculate(20, 4, div);
     }
 
 }
