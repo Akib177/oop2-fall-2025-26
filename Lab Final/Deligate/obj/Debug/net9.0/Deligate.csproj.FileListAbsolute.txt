@@ -1,0 +1,15 @@
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\bin\Debug\net9.0\Deligate.exe
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\bin\Debug\net9.0\Deligate.deps.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\bin\Debug\net9.0\Deligate.runtimeconfig.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\bin\Debug\net9.0\Deligate.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\bin\Debug\net9.0\Deligate.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\Deligate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\Deligate.AssemblyInfoInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\Deligate.AssemblyInfo.cs
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\Deligate.csproj.CoreCompileInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\Deligate.sourcelink.json
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\Deligate.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\refint\Deligate.dll
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\Deligate.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\Deligate.genruntimeconfig.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Lab Final\Deligate\obj\Debug\net9.0\ref\Deligate.dll
