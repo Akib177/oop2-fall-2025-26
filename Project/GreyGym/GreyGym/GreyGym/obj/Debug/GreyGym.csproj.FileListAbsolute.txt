@@ -1,0 +1,6 @@
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.AssemblyReference.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.Login.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.HomePage.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.Properties.Resources.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.GenerateResource.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
