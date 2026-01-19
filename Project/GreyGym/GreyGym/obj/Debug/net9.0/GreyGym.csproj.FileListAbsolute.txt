@@ -1,5 +1,0 @@
-D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\net9.0\GreyGym.GeneratedMSBuildEditorConfig.editorconfig
-D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\net9.0\GreyGym.AssemblyInfoInputs.cache
-D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\net9.0\GreyGym.AssemblyInfo.cs
-D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\net9.0\GreyGym.csproj.CoreCompileInputs.cache
-D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\net9.0\GreyGym.sourcelink.json
