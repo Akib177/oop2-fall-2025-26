@@ -30,13 +30,13 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Packages));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.fpPackageDash = new System.Windows.Forms.FlowLayoutPanel();
             this.label4 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.btnHLogin = new System.Windows.Forms.Button();
             this.btnPack = new System.Windows.Forms.Button();
-            this.fpPackageDash = new System.Windows.Forms.FlowLayoutPanel();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
@@ -54,6 +54,14 @@
             this.panel1.Size = new System.Drawing.Size(1034, 575);
             this.panel1.TabIndex = 0;
             // 
+            // fpPackageDash
+            // 
+            this.fpPackageDash.AutoScroll = true;
+            this.fpPackageDash.Location = new System.Drawing.Point(8, 89);
+            this.fpPackageDash.Name = "fpPackageDash";
+            this.fpPackageDash.Size = new System.Drawing.Size(1004, 485);
+            this.fpPackageDash.TabIndex = 8;
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -67,14 +75,14 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(246)))), ((int)(((byte)(250)))));
-            this.pictureBox1.BackgroundImage = global::GreyGym.Properties.Resources.image_removebg_preview;
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox1.Location = new System.Drawing.Point(310, 13);
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(290, 3);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(91, 70);
-            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.Size = new System.Drawing.Size(117, 84);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // panel2
             // 
@@ -90,11 +98,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("JetBrainsMono NF", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label1.Location = new System.Drawing.Point(3, -2);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(127, 36);
+            this.label1.Size = new System.Drawing.Size(137, 31);
             this.label1.TabIndex = 2;
             this.label1.Text = "GreyGym";
             // 
@@ -131,25 +139,15 @@
             this.btnPack.MouseLeave += new System.EventHandler(this.btnPack_MouseLeave);
             this.btnPack.MouseHover += new System.EventHandler(this.btnPack_MouseHover);
             // 
-            // fpPackageDash
-            // 
-            this.fpPackageDash.AutoScroll = true;
-            this.fpPackageDash.Location = new System.Drawing.Point(8, 89);
-            this.fpPackageDash.Name = "fpPackageDash";
-            this.fpPackageDash.Size = new System.Drawing.Size(1004, 485);
-            this.fpPackageDash.TabIndex = 8;
-            // 
             // Packages
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.BackgroundImage = global::GreyGym.Properties.Resources.health_club_without_people_with_exercise_equipment;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1107, 644);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Packages";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
