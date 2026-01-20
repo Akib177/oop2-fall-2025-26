@@ -47,6 +47,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationHelper.cs" />
+    <Compile Include="ManagerialView%28Packages%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerialView%28Packages%29.Designer.cs">
+      <DependentUpon>ManagerialView%28Packages%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerialView%28DietPlan%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerialView%28DietPlan%29.Designer.cs">
+      <DependentUpon>ManagerialView%28DietPlan%29.cs</DependentUpon>
+    </Compile>
     <Compile Include="UpdateInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +97,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="HomePage.resx">
       <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerialView%28DietPlan%29.resx">
+      <DependentUpon>ManagerialView%28DietPlan%29.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Packages.resx">
       <DependentUpon>Packages.cs</DependentUpon>
