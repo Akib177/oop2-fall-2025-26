@@ -140,7 +140,8 @@ namespace GreyGym
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = con;
 
-                cmd.CommandText = $"Update  Package set PackageName = '{Pack}',Duration = {duration} , Price = {price} , Description = '{desc}' where id = {id}";
+                cmd.CommandText = $"Update  Package set PackageName = '{Pack}',Duration = {duration} , " +
+                    $"Price = {price} , Description = '{desc}' where id = {id}";
 
                 MessageBox.Show("Updated Successfully");
                 cmd.ExecuteNonQuery();

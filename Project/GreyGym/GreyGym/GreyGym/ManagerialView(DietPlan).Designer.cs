@@ -93,7 +93,7 @@
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 57F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1518, 637);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1114, 625);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // panel4
@@ -117,10 +117,10 @@
             this.panel4.Controls.Add(this.label2);
             this.panel4.Controls.Add(this.label1);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel4.Location = new System.Drawing.Point(1318, 59);
+            this.panel4.Location = new System.Drawing.Point(914, 59);
             this.panel4.Margin = new System.Windows.Forms.Padding(2);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(198, 576);
+            this.panel4.Size = new System.Drawing.Size(198, 564);
             this.panel4.TabIndex = 1;
             // 
             // dtpStart
@@ -311,7 +311,7 @@
             this.panel3.Location = new System.Drawing.Point(2, 59);
             this.panel3.Margin = new System.Windows.Forms.Padding(2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1312, 576);
+            this.panel3.Size = new System.Drawing.Size(908, 564);
             this.panel3.TabIndex = 2;
             // 
             // btnGym
@@ -365,7 +365,6 @@
             this.btnPackage.TabIndex = 3;
             this.btnPackage.Text = "Package";
             this.btnPackage.UseVisualStyleBackColor = false;
-            this.btnPackage.Click += new System.EventHandler(this.btnPackage_Click);
             // 
             // btnPaymet
             // 
@@ -523,7 +522,7 @@
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel2.Controls.Add(this.btnSave);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(1318, 2);
+            this.panel2.Location = new System.Drawing.Point(914, 2);
             this.panel2.Margin = new System.Windows.Forms.Padding(2);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(198, 53);
@@ -554,7 +553,7 @@
             this.panel1.Location = new System.Drawing.Point(2, 2);
             this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1312, 53);
+            this.panel1.Size = new System.Drawing.Size(908, 53);
             this.panel1.TabIndex = 0;
             // 
             // label9
@@ -587,7 +586,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1518, 637);
+            this.ClientSize = new System.Drawing.Size(1114, 625);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;

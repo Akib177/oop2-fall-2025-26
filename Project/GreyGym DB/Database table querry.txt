@@ -43,3 +43,25 @@ CREATE TABLE Equipment (
     PurchasedDate DATE NOT NULL,
     Status NVARCHAR(20) NOT NULL
 );
+
+CREATE TABLE DietPlan (
+
+    SerialNo INT IDENTITY(1,1) PRIMARY KEY,
+
+    UID NVARCHAR(10) NOT NULL,    
+
+    TID NVARCHAR(10) NOT NULL,      
+
+    CurrentWeight DECIMAL(5,2) NOT NULL,
+
+    TargetWeight DECIMAL(5,2) NOT NULL,
+
+    Goal NVARCHAR(30) NOT NULL,   
+
+    StartDate DATE NOT NULL
+
+);
+
+ 
+
+
