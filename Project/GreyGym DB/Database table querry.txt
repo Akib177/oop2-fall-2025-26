@@ -1,0 +1,67 @@
+@"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True"
+
+
+
+CREATE TABLE GymEquipment (
+    id INT PRIMARY KEY,
+    Ename VARCHAR(100),
+    Category VARCHAR(50),
+    Quantity INT,
+    PurchaseDate DATE,
+    Status VARCHAR(50)
+);
+
+
+CREATE TABLE UserPackage (
+    id INT PRIMARY KEY,
+    Uid INT,
+    PackId INT,
+    StartDate DATE,
+    EndDate DATE,
+    IsActive VARCHAR(5)
+);
+
+CREATE TABLE IncidentReport (
+    id INT PRIMARY KEY,
+    ReportedBy VARCHAR(100),
+    Date DATE,
+    Description TEXT,
+    Status VARCHAR(50)
+);
+
+CREATE TABLE Clerk (
+    SerialNo INT IDENTITY(1,1) PRIMARY KEY,
+    CID NVARCHAR(10) NOT NULL,
+    ClerkName NVARCHAR(50) NOT NULL,
+    AssignedDate DATE NOT NULL
+);
+
+CREATE TABLE Equipment (
+    SerialNo INT IDENTITY(1,1) PRIMARY KEY,
+    EquipmentName NVARCHAR(50) NOT NULL,
+    Category NVARCHAR(30) NOT NULL,
+    PurchasedDate DATE NOT NULL,
+    Status NVARCHAR(20) NOT NULL
+);
+
+CREATE TABLE DietPlan (
+
+    SerialNo INT IDENTITY(1,1) PRIMARY KEY,
+
+    UID NVARCHAR(10) NOT NULL,    
+
+    TID NVARCHAR(10) NOT NULL,      
+
+    CurrentWeight DECIMAL(5,2) NOT NULL,
+
+    TargetWeight DECIMAL(5,2) NOT NULL,
+
+    Goal NVARCHAR(30) NOT NULL,   
+
+    StartDate DATE NOT NULL
+
+);
+
+ 
+
+
