@@ -6,3 +6,13 @@ D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\Gre
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.Packages.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\project.Registration.resources
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.AssemblyReference.cache
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.Login.resources
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.HomePage.resources
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.Packages.resources
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.Properties.Resources.resources
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\project.Registration.resources
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.GenerateResource.cache
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerDashboard.resources
+C:\Users\rahul\OneDrive\Desktop\Project rahul\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.Deshboardcustomer.resources
