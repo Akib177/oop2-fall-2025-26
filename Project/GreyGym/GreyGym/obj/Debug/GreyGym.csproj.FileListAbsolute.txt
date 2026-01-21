@@ -8,3 +8,4 @@ D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\Gre
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\project.Registration.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_DietPlan_.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.UpdateInfo.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.AssemblyReference.cache

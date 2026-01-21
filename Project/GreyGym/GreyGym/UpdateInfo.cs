@@ -176,5 +176,10 @@ namespace GreyGym
             C.Show();
             this.Hide();
         }
+
+        private void cmbGender_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

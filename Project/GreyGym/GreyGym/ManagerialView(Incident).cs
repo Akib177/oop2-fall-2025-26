@@ -1,6 +1,4 @@
-﻿using GreyGym;
-using Microsoft.SqlServer.Server;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,7 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml.Linq;
+using GreyGym;
+using Microsoft.SqlServer.Server;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
 namespace GreyGym
@@ -201,6 +200,70 @@ namespace GreyGym
         private void btnNew_Click(object sender, EventArgs e)
         {
             this.RefreshAll();
+        }
+
+        private void btnUser_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ManagerialView_User_ mgu = new ManagerialView_User_();
+            mgu.Show();
+        }
+
+        private void btnPaymet_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            ManegerialView_Amount_ mga = new ManegerialView_Amount_();
+            mga.Show();
+        }
+
+        private void btnPackage_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ManagerialView_Packages_ mgp = new ManagerialView_Packages_();
+            mgp.Show();
+        }
+
+        private void btnDiet_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ManagerialView_DietPlan_ mgd = new ManagerialView_DietPlan_();
+            mgd.Show();
+        }
+
+        private void btnUserpackage_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ManagerialView_UserPackage_ mgu = new ManagerialView_UserPackage_();
+            mgu.Show();
+        }
+
+        private void btnGym_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ManagerialView_TrainerUser_ mgt = new ManagerialView_TrainerUser_();
+            mgt.Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login lg = new Login();
+            lg.Show();
         }
     }
 }
