@@ -1,5 +1,4 @@
-﻿
-using project;
+﻿using project;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,7 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Collections.Specialized.BitVector32;
 
 namespace GreyGym
 {
@@ -175,7 +173,12 @@ namespace GreyGym
             }
         }
 
-        private void Login_Load(object sender, EventArgs e)
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }

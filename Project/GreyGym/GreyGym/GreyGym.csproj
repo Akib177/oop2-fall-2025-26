@@ -47,11 +47,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationHelper.cs" />
-    <Compile Include="PackageDash.cs">
+    <Compile Include="Registration.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PackageDash.Designer.cs">
-      <DependentUpon>PackageDash.cs</DependentUpon>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
     </Compile>
     <Compile Include="ManegerialView%28Amount%29.cs">
       <SubType>Form</SubType>
@@ -95,6 +107,12 @@
     <Compile Include="ManagerialView%28DietPlan%29.Designer.cs">
       <DependentUpon>ManagerialView%28DietPlan%29.cs</DependentUpon>
     </Compile>
+    <Compile Include="Packages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Packages.Designer.cs">
+      <DependentUpon>Packages.cs</DependentUpon>
+    </Compile>
     <Compile Include="UpdateInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,46 +120,19 @@
       <DependentUpon>UpdateInfo.cs</DependentUpon>
     </Compile>
     <Compile Include="Session.cs" />
-    <Compile Include="Registration.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Registration.Designer.cs">
-      <DependentUpon>Registration.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Packages.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Packages.Designer.cs">
-      <DependentUpon>Packages.cs</DependentUpon>
-    </Compile>
-    <Compile Include="login.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="login.Designer.cs">
-      <DependentUpon>login.cs</DependentUpon>
-    </Compile>
-    <Compile Include="HomePage.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="HomePage.Designer.cs">
-      <DependentUpon>HomePage.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="login.resx">
-      <DependentUpon>login.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="HomePage.resx">
       <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ManagerialView%28DietPlan%29.resx">
       <DependentUpon>ManagerialView%28DietPlan%29.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ManagerialView%28Incident%29.resx">
       <DependentUpon>ManagerialView%28Incident%29.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="PackageDash.resx">
-      <DependentUpon>PackageDash.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Packages.resx">
       <DependentUpon>Packages.cs</DependentUpon>
