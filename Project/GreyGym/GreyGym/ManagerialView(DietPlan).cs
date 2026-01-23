@@ -231,5 +231,14 @@ namespace GreyGym
             }
         }
 
+        private void btnUserpackage_Click(object sender, EventArgs e)
+        {
+ 
+        }
+
+        private void btnGym_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

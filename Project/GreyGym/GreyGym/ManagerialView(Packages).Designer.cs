@@ -60,9 +60,9 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.button4 = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label9 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.label9 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -87,7 +87,7 @@
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 57F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1062, 574);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1142, 590);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // panel4
@@ -105,10 +105,10 @@
             this.panel4.Controls.Add(this.txtId);
             this.panel4.Controls.Add(this.label2);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel4.Location = new System.Drawing.Point(876, 59);
+            this.panel4.Location = new System.Drawing.Point(956, 59);
             this.panel4.Margin = new System.Windows.Forms.Padding(2);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(184, 513);
+            this.panel4.Size = new System.Drawing.Size(184, 529);
             this.panel4.TabIndex = 1;
             // 
             // rDesc
@@ -236,7 +236,7 @@
             this.panel3.Location = new System.Drawing.Point(2, 59);
             this.panel3.Margin = new System.Windows.Forms.Padding(2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(870, 513);
+            this.panel3.Size = new System.Drawing.Size(950, 529);
             this.panel3.TabIndex = 1;
             // 
             // button8
@@ -395,7 +395,7 @@
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(729, 509);
+            this.dataGridView1.Size = new System.Drawing.Size(781, 509);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
@@ -450,7 +450,7 @@
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel2.Controls.Add(this.button4);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(876, 2);
+            this.panel2.Location = new System.Drawing.Point(956, 2);
             this.panel2.Margin = new System.Windows.Forms.Padding(2);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(184, 53);
@@ -482,9 +482,20 @@
             this.panel1.Location = new System.Drawing.Point(2, 2);
             this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(870, 53);
+            this.panel1.Size = new System.Drawing.Size(950, 53);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Segoe UI Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.Color.White;
+            this.label9.Location = new System.Drawing.Point(424, 6);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(139, 37);
+            this.label9.TabIndex = 21;
+            this.label9.Text = "Packages";
             // 
             // button3
             // 
@@ -516,22 +527,11 @@
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Segoe UI Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(424, 6);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(139, 37);
-            this.label9.TabIndex = 21;
-            this.label9.Text = "Packages";
-            // 
             // ManagerialView_Packages_
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1062, 574);
+            this.ClientSize = new System.Drawing.Size(1142, 590);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;

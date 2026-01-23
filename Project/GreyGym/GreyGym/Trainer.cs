@@ -39,11 +39,13 @@ namespace GreyGym
             string cs = @"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";
 
             string query = @"
-                SELECT ui.Name, ui.Gender, ui.UserType, up.StartDate, up.EndDate
-                FROM TrainerUser tu
-                INNER JOIN UserInfo ui ON tu.UID = ui.UserId
-                INNER JOIN UserPackage up ON tu.UID = up.UserId
-                WHERE tu.TID = @TrainerID
+               SELECT ui.Name, ui.Gender, ui.UserType, up.StartDate, up.EndDate
+            FROM TrainerUser tu
+            INNER JOIN UserInfo ui
+            ON tu.CustomerID = ui.ID
+            INNER JOIN UserPackage up
+            ON tu.CustomerID = up.UserId
+            WHERE tu.TrainerID = @TrainerID
             ";
 
             using (SqlConnection con = new SqlConnection(cs))
@@ -62,13 +64,10 @@ namespace GreyGym
             string cs = @"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";
 
             string query = @"
-                SELECT ui.Name, ui.Gender, ui.UserType,
-                       dp.CurrentWeight, dp.TargetWeight,
-                       dp.Goal, dp.FoodPlan, dp.StartDate
-                FROM DietPlan dp
-                INNER JOIN UserInfo ui ON dp.UserID = ui.UserId
-                WHERE dp.TrainerID = @TrainerID
-            ";
+              SELECT ui.Name, ui.Gender, ui.UserType, dp.CurrentWeight,
+              dp.TargetWeight, dp.Goal, dp.FoodPlan, dp.StartDateFROM DietPlan dp 
+              INNER JOIN UserInfo ui ON dp.UserID = ui.ID
+              WHERE dp.TrainerID = @TrainerID;";
 
             using (SqlConnection con = new SqlConnection(cs))
             using (SqlCommand cmd = new SqlCommand(query, con))
@@ -83,9 +82,7 @@ namespace GreyGym
 
         private void btnProfile_Click(object sender, EventArgs e)
         {
-            ProfileUpdateInfo p =
-                new ProfileUpdateInfo(loggedTrainerId, loggedTrainerId, this);
-
+            ProfileUpdateInfo p = new ProfileUpdateInfo(loggedTrainerId, loggedTrainerId, this);
             this.Hide();
             p.Show();
         }

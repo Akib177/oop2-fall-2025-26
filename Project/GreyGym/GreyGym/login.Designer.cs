@@ -50,9 +50,8 @@
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Location = new System.Drawing.Point(-1, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(477, 469);
+            this.panel1.Size = new System.Drawing.Size(358, 381);
             this.panel1.TabIndex = 0;
             // 
             // label2
@@ -60,20 +59,18 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label2.Location = new System.Drawing.Point(119, 292);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(89, 237);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(217, 52);
+            this.label2.Size = new System.Drawing.Size(175, 39);
             this.label2.TabIndex = 1;
             this.label2.Text = "GreyGym";
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(55, 69);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox1.Location = new System.Drawing.Point(41, 56);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(369, 254);
+            this.pictureBox1.Size = new System.Drawing.Size(277, 206);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 10;
             this.pictureBox1.TabStop = false;
@@ -81,10 +78,9 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(967, 241);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox2.Location = new System.Drawing.Point(725, 196);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(40, 28);
+            this.pictureBox2.Size = new System.Drawing.Size(30, 23);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 2;
             this.pictureBox2.TabStop = false;
@@ -93,10 +89,9 @@
             // 
             this.txtEmail.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEmail.ForeColor = System.Drawing.Color.Gray;
-            this.txtEmail.Location = new System.Drawing.Point(557, 171);
-            this.txtEmail.Margin = new System.Windows.Forms.Padding(4);
+            this.txtEmail.Location = new System.Drawing.Point(418, 139);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(399, 27);
+            this.txtEmail.Size = new System.Drawing.Size(300, 23);
             this.txtEmail.TabIndex = 3;
             this.txtEmail.Text = "Enter Email";
             this.txtEmail.Enter += new System.EventHandler(this.txtEmail_Enter);
@@ -106,10 +101,9 @@
             // 
             this.txtPass.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPass.ForeColor = System.Drawing.Color.Gray;
-            this.txtPass.Location = new System.Drawing.Point(557, 241);
-            this.txtPass.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPass.Location = new System.Drawing.Point(418, 196);
             this.txtPass.Name = "txtPass";
-            this.txtPass.Size = new System.Drawing.Size(399, 27);
+            this.txtPass.Size = new System.Drawing.Size(300, 23);
             this.txtPass.TabIndex = 4;
             this.txtPass.Text = "Enter Password";
             this.txtPass.UseSystemPasswordChar = true;
@@ -120,10 +114,9 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(557, 117);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(418, 95);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(187, 32);
+            this.label1.Size = new System.Drawing.Size(146, 25);
             this.label1.TabIndex = 5;
             this.label1.Text = "Welcome Back!";
             // 
@@ -133,10 +126,9 @@
             this.btnLogin.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnLogin.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.btnLogin.Location = new System.Drawing.Point(786, 306);
-            this.btnLogin.Margin = new System.Windows.Forms.Padding(4);
+            this.btnLogin.Location = new System.Drawing.Point(590, 249);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(124, 44);
+            this.btnLogin.Size = new System.Drawing.Size(93, 36);
             this.btnLogin.TabIndex = 7;
             this.btnLogin.Text = "Login→";
             this.btnLogin.UseVisualStyleBackColor = false;
@@ -150,10 +142,9 @@
             this.btnCancel.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCancel.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancel.ForeColor = System.Drawing.Color.Black;
-            this.btnCancel.Location = new System.Drawing.Point(594, 306);
-            this.btnCancel.Margin = new System.Windows.Forms.Padding(4);
+            this.btnCancel.Location = new System.Drawing.Point(446, 249);
             this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(125, 44);
+            this.btnCancel.Size = new System.Drawing.Size(94, 36);
             this.btnCancel.TabIndex = 8;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = false;
@@ -165,10 +156,9 @@
             this.linlabRegi.AutoSize = true;
             this.linlabRegi.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linlabRegi.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(76)))));
-            this.linlabRegi.Location = new System.Drawing.Point(633, 375);
-            this.linlabRegi.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.linlabRegi.Location = new System.Drawing.Point(475, 305);
             this.linlabRegi.Name = "linlabRegi";
-            this.linlabRegi.Size = new System.Drawing.Size(233, 28);
+            this.linlabRegi.Size = new System.Drawing.Size(187, 21);
             this.linlabRegi.TabIndex = 9;
             this.linlabRegi.TabStop = true;
             this.linlabRegi.Text = "Don\'t have an account?";
@@ -178,9 +168,9 @@
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1023, 473);
+            this.ClientSize = new System.Drawing.Size(767, 384);
             this.Controls.Add(this.linlabRegi);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.btnCancel);
@@ -190,9 +180,9 @@
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.panel1);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "GreyGym";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Login_FormClosing);
             this.panel1.ResumeLayout(false);

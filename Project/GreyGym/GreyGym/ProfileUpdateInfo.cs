@@ -27,7 +27,7 @@ namespace GreyGym
 
         private void LoadUserInfo()
         {
-            string cs = @"Data Source=LAPTOP-R36494D9\SQLEXPRESS;Integrated Security=True";
+            string cs = @"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";
 
             string query = @"
                 SELECT Name, Phone, Gmail, Password
@@ -63,16 +63,12 @@ namespace GreyGym
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            string cs = @"Data Source=LAPTOP-R36494D9\SQLEXPRESS;Integrated Security=True";
+            string cs = @"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";
 
             string query = @"
-                UPDATE UserInfo
-                SET Name = @Name,
-                    Phone = @Phone,
-                    Gmail = @Gmail,
-                    Password = @Password
-                WHERE UserId = @UserId
-            ";
+               UPDATE UserInfo
+                SET  Name = @Name,  Phone = @Phone, Gmail = @Gmail, Password = @Password
+                WHERE ID = @UserId; ";
 
             try
             {
@@ -107,7 +103,7 @@ namespace GreyGym
 
             if (dr != DialogResult.Yes) return;
 
-            string cs = @"Data Source=LAPTOP-R36494D9\SQLEXPRESS;Integrated Security=True";
+            string cs = @"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";
 
             try
             {

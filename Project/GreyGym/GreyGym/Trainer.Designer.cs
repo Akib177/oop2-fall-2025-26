@@ -42,7 +42,7 @@
             // 
             this.btnBack.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBack.Location = new System.Drawing.Point(14, 319);
-            this.btnBack.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnBack.Margin = new System.Windows.Forms.Padding(2);
             this.btnBack.Name = "btnBack";
             this.btnBack.Size = new System.Drawing.Size(151, 39);
             this.btnBack.TabIndex = 21;
@@ -54,7 +54,7 @@
             // 
             this.btnHome.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHome.Location = new System.Drawing.Point(14, 62);
-            this.btnHome.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnHome.Margin = new System.Windows.Forms.Padding(2);
             this.btnHome.Name = "btnHome";
             this.btnHome.Size = new System.Drawing.Size(151, 35);
             this.btnHome.TabIndex = 20;
@@ -65,20 +65,20 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(346, 30);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridView1.Location = new System.Drawing.Point(206, 46);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.dataGridView1.Size = new System.Drawing.Size(477, 328);
+            this.dataGridView1.Size = new System.Drawing.Size(652, 343);
             this.dataGridView1.TabIndex = 19;
             // 
             // btnProfile
             // 
             this.btnProfile.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnProfile.Location = new System.Drawing.Point(14, 258);
-            this.btnProfile.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnProfile.Margin = new System.Windows.Forms.Padding(2);
             this.btnProfile.Name = "btnProfile";
             this.btnProfile.Size = new System.Drawing.Size(151, 39);
             this.btnProfile.TabIndex = 18;
@@ -90,7 +90,7 @@
             // 
             this.btnDiet.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDiet.Location = new System.Drawing.Point(14, 190);
-            this.btnDiet.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnDiet.Margin = new System.Windows.Forms.Padding(2);
             this.btnDiet.Name = "btnDiet";
             this.btnDiet.Size = new System.Drawing.Size(151, 41);
             this.btnDiet.TabIndex = 17;
@@ -102,7 +102,7 @@
             // 
             this.btnMember.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMember.Location = new System.Drawing.Point(14, 123);
-            this.btnMember.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnMember.Margin = new System.Windows.Forms.Padding(2);
             this.btnMember.Name = "btnMember";
             this.btnMember.Size = new System.Drawing.Size(151, 36);
             this.btnMember.TabIndex = 16;
@@ -114,7 +114,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(298, 4);
+            this.label1.Location = new System.Drawing.Point(477, 9);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(85, 22);
@@ -125,7 +125,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(832, 383);
+            this.ClientSize = new System.Drawing.Size(911, 445);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnHome);
             this.Controls.Add(this.dataGridView1);
@@ -133,7 +133,7 @@
             this.Controls.Add(this.btnDiet);
             this.Controls.Add(this.btnMember);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Trainer";
             this.Text = "Trainer";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
