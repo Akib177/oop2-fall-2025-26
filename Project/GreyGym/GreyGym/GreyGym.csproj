@@ -71,6 +71,18 @@
     <Compile Include="CustomerWorkout.Designer.cs">
       <DependentUpon>CustomerWorkout.cs</DependentUpon>
     </Compile>
+    <Compile Include="ProfileUpdateInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileUpdateInfo.Designer.cs">
+      <DependentUpon>ProfileUpdateInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trainer.Designer.cs">
+      <DependentUpon>Trainer.cs</DependentUpon>
+    </Compile>
     <Compile Include="PackageDash.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -119,29 +131,6 @@
     <Compile Include="ManagerialView%28DietPlan%29.Designer.cs">
       <DependentUpon>ManagerialView%28DietPlan%29.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    <Compile Include="ProfileUpdateInfo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ProfileUpdateInfo.Designer.cs">
-      <DependentUpon>ProfileUpdateInfo.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Trainer.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Trainer.Designer.cs">
-      <DependentUpon>Trainer.cs</DependentUpon>
-=======
-    <Compile Include="Packages.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Packages.Designer.cs">
-      <DependentUpon>Packages.cs</DependentUpon>
->>>>>>> c06fb626e093fa69f257ec42b8d90c3b7f46cb0d
-    </Compile>
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
     <Compile Include="UpdateInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -205,9 +194,6 @@
     <EmbeddedResource Include="Packages.resx">
       <DependentUpon>Packages.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ProfileUpdateInfo.resx">
-      <DependentUpon>ProfileUpdateInfo.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -216,6 +202,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Registration.resx">
       <DependentUpon>Registration.cs</DependentUpon>
@@ -239,6 +226,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Screenshot 2026-01-23 150950.png" />
+    <Content Include="Resources\Screenshot 2026-01-23 151005.png" />
+    <Content Include="Resources\Screenshot 2026-01-23 151056.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

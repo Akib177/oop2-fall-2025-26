@@ -40,7 +40,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.fpPackageDash = new System.Windows.Forms.FlowLayoutPanel();
-<<<<<<< HEAD
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
@@ -54,24 +53,16 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-=======
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.panel2.SuspendLayout();
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(76)))));
-<<<<<<< HEAD
             this.panel1.Controls.Add(this.pictureBox7);
             this.panel1.Controls.Add(this.pictureBox6);
             this.panel1.Controls.Add(this.pictureBox5);
             this.panel1.Controls.Add(this.pictureBox3);
             this.panel1.Controls.Add(this.pictureBox2);
-=======
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.panel1.Controls.Add(this.btnLogout);
             this.panel1.Controls.Add(this.btnWorkout);
             this.panel1.Controls.Add(this.btnProfile);
@@ -89,10 +80,6 @@
             // 
             this.btnLogout.BackColor = System.Drawing.Color.Azure;
             this.btnLogout.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
-=======
-          //  this.btnLogout.Image = global::GreyGym.Properties.Resources.icons8_logout_35;
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.btnLogout.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnLogout.Location = new System.Drawing.Point(3, 476);
             this.btnLogout.Name = "btnLogout";
@@ -106,10 +93,6 @@
             // 
             this.btnWorkout.BackColor = System.Drawing.Color.Azure;
             this.btnWorkout.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
-=======
-          //  this.btnWorkout.Image = global::GreyGym.Properties.Resources.icons8_workout_35;
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.btnWorkout.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnWorkout.Location = new System.Drawing.Point(3, 345);
             this.btnWorkout.Name = "btnWorkout";
@@ -117,19 +100,12 @@
             this.btnWorkout.TabIndex = 16;
             this.btnWorkout.Text = "Workout";
             this.btnWorkout.UseVisualStyleBackColor = false;
-<<<<<<< HEAD
             this.btnWorkout.Click += new System.EventHandler(this.btnWorkout_Click);
-=======
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             // 
             // btnProfile
             // 
             this.btnProfile.BackColor = System.Drawing.Color.Azure;
             this.btnProfile.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
-=======
-            //this.btnProfile.Image = global::GreyGym.Properties.Resources.icons8_profile_35;
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.btnProfile.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnProfile.Location = new System.Drawing.Point(3, 411);
             this.btnProfile.Name = "btnProfile";
@@ -143,10 +119,6 @@
             // 
             this.btnMember.BackColor = System.Drawing.Color.Azure;
             this.btnMember.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
-=======
-            //this.btnMember.Image = global::GreyGym.Properties.Resources.icons8_membership_35;
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.btnMember.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnMember.Location = new System.Drawing.Point(3, 281);
             this.btnMember.Name = "btnMember";
@@ -159,10 +131,6 @@
             // 
             this.btnHome.BackColor = System.Drawing.Color.Azure;
             this.btnHome.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
-=======
-            //this.btnHome.Image = global::GreyGym.Properties.Resources.icons8_home_35;
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.btnHome.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnHome.Location = new System.Drawing.Point(3, 213);
             this.btnHome.Name = "btnHome";
@@ -175,39 +143,22 @@
             // label1
             // 
             this.label1.AutoSize = true;
-<<<<<<< HEAD
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label1.Location = new System.Drawing.Point(72, 155);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(109, 25);
-=======
-            this.label1.Font = new System.Drawing.Font("JetBrains Mono ExtraBold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label1.Location = new System.Drawing.Point(72, 155);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(103, 27);
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.label1.TabIndex = 7;
             this.label1.Text = "GreyGym";
             // 
             // pictureBox1
             // 
-<<<<<<< HEAD
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(-54, -53);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(362, 260);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox1.TabIndex = 18;
-=======
-          //  this.pictureBox1.BackgroundImage = global::GreyGym.Properties.Resources.image_Photoroom__3_;
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox1.Location = new System.Drawing.Point(29, 37);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(187, 145);
-            this.pictureBox1.TabIndex = 6;
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.pictureBox1.TabStop = false;
             // 
             // label2
@@ -240,7 +191,6 @@
             this.fpPackageDash.Size = new System.Drawing.Size(1246, 611);
             this.fpPackageDash.TabIndex = 7;
             // 
-<<<<<<< HEAD
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.White;
@@ -297,8 +247,6 @@
             this.pictureBox7.TabIndex = 18;
             this.pictureBox7.TabStop = false;
             // 
-=======
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             // PackageDash
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -307,10 +255,6 @@
             this.Controls.Add(this.fpPackageDash);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-<<<<<<< HEAD
-=======
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.Name = "PackageDash";
@@ -322,14 +266,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-=======
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             this.ResumeLayout(false);
 
         }
@@ -346,13 +287,10 @@
         private System.Windows.Forms.Button btnProfile;
         private System.Windows.Forms.Button btnMember;
         private System.Windows.Forms.Button btnHome;
-<<<<<<< HEAD
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.PictureBox pictureBox7;
-=======
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
     }
 }

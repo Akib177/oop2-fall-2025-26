@@ -45,9 +45,9 @@ namespace GreyGym
 
         private void CustomerPayment_Load(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=SportsDB;Integrated Security=True;TrustServerCertificate=True");
+            SqlConnection con = new SqlConnection(@"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True");
 
-            con.Open();
+               con.Open();
 
             SqlCommand cnn = new SqlCommand("select * from Amount ", con);
 
@@ -71,7 +71,7 @@ namespace GreyGym
 
         private void button8_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
+            SqlConnection con = new SqlConnection(@"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True");
 
             con.Open();
 
@@ -139,16 +139,20 @@ namespace GreyGym
 
         private void button4_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=SportsDB;Integrated Security=True;TrustServerCertificate=True");
+            var connection = new SqlConnection();
+            connection.ConnectionString = ApplicationHelper.cs;
+            connection.Open();
 
-            con.Open();
+            var cmd = new SqlCommand();
+            cmd.Connection = connection;
+            cmd.CommandText = $"select * from Amount";
 
-            SqlCommand cnn = new SqlCommand("select * from Amount ", con);
+            DataSet ds = new DataSet();
+            SqlDataAdapter adp = new SqlDataAdapter(cmd);
+            adp.Fill(ds);
 
-            SqlDataAdapter da = new SqlDataAdapter(cnn);
-            DataTable table = new DataTable();
-            da.Fill(table);
-            PaymentDGV.DataSource = table;
+            DataTable dt = ds.Tables[0];
+            connection.Close();
         }
     }
 }

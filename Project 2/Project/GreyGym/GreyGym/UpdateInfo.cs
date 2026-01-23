@@ -46,11 +46,11 @@ namespace GreyGym
             try
             {
 
-                SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
+                SqlConnection con = new SqlConnection();
                 con.ConnectionString = ApplicationHelper.cs;
                 con.Open();
 
-                SqlCommand cmd = new SqlCommand(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
+                SqlCommand cmd = new SqlCommand();
                 cmd.Connection = con;
 
                 cmd.CommandText = $"select Name,Gmail,Phone,Password,Gender from UserInfo where ID ={id}";
@@ -85,7 +85,7 @@ namespace GreyGym
 
             try
             {
-                SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
+                SqlConnection con = new SqlConnection();
                 con.ConnectionString = ApplicationHelper.cs;
                 con.Open();
 
@@ -169,7 +169,6 @@ namespace GreyGym
         {
 
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             CustomerHome C = new CustomerHome();
@@ -178,6 +177,11 @@ namespace GreyGym
         }
 
         private void cmbGender_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtGmail_TextChanged(object sender, EventArgs e)
         {
 
         }

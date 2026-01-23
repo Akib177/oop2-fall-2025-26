@@ -36,7 +36,7 @@ namespace GreyGym
 
         private void btnMember_Click(object sender, EventArgs e)
         {
-            string cs = @"Data Source=LAPTOP-R36494D9\SQLEXPRESS;Integrated Security=True";
+            string cs = @"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";
 
             string query = @"
                 SELECT ui.Name, ui.Gender, ui.UserType, up.StartDate, up.EndDate
@@ -59,7 +59,7 @@ namespace GreyGym
 
         private void btnDiet_Click(object sender, EventArgs e)
         {
-            string cs = @"Data Source=LAPTOP-R36494D9\SQLEXPRESS;Integrated Security=True";
+            string cs = @"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";
 
             string query = @"
                 SELECT ui.Name, ui.Gender, ui.UserType,

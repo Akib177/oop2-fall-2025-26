@@ -8,30 +8,7 @@ D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\Gre
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\project.Registration.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_DietPlan_.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\GreyGym\obj\Debug\GreyGym.UpdateInfo.resources
-<<<<<<< HEAD
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.AssemblyReference.cache
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Login.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.HomePage.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_DietPlan_.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_Incident_.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\project.PackageDash.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Packages.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Properties.Resources.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\project.Registration.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Trainer.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.UpdateInfo.resources
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.GenerateResource.cache
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe.config
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\bin\Debug\GreyGym.pdb
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.pdb
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe.config
-C:\Users\Mobarak\Downloads\Akib Repos\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ProfileUpdateInfo.resources
-=======
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.AssemblyReference.cache
-<<<<<<< HEAD
 C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.AssemblyReference.cache
 C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerHome.resources
 C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerPayment.resources
@@ -46,17 +23,70 @@ C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\Gr
 C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.UpdateInfo.resources
 C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.GenerateResource.cache
 C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
-=======
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.AssemblyReference.cache
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerHome.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerPayment.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerProfile.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerWorkout.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Login.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.HomePage.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_DietPlan_.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_Incident_.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\project.PackageDash.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Packages.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Properties.Resources.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\project.Registration.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.UpdateInfo.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.GenerateResource.cache
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe.config
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\bin\Debug\GreyGym.pdb
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.pdb
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe.config
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe.config
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\bin\Debug\GreyGym.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.AssemblyReference.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe.config
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerHome.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerPayment.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerProfile.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerWorkout.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Login.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.HomePage.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_DietPlan_.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_Incident_.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\project.PackageDash.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Packages.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Properties.Resources.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\project.Registration.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.UpdateInfo.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.GenerateResource.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Trainer.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe.config
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\bin\Debug\GreyGym.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe.config
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerHome.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerPayment.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerProfile.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerWorkout.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Login.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.HomePage.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_DietPlan_.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_Incident_.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\project.PackageDash.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Packages.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Properties.Resources.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\project.Registration.resources
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Trainer.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.UpdateInfo.resources
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.GenerateResource.cache
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
-D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.HomePage.resources
-D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Login.resources
-D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Packages.resources
-D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\project.Registration.resources
->>>>>>> c06fb626e093fa69f257ec42b8d90c3b7f46cb0d
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.pdb

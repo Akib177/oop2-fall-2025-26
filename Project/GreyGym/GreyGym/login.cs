@@ -1,5 +1,4 @@
-﻿
-using project;
+﻿using project;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,7 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Collections.Specialized.BitVector32;
 
 namespace GreyGym
 {
@@ -143,7 +141,7 @@ namespace GreyGym
 
                 if (type == "Customer")
                 {
-                    HomePage ch = new HomePage();
+                    CustomerHome ch = new CustomerHome();
                     this.Hide();
                     ch.Show();
                 }
@@ -156,15 +154,15 @@ namespace GreyGym
                 }
                 else if (type == "Trainer")
                 {
-                    TrainerView_TrainerUser_ tgu = new TrainerView_TrainerUser_();
+                   Trainer tgu = new Trainer(Session.ID);
                     this.Hide();
                     tgu.Show();
                 }
                 else if (type == "Employee")
                 {
-                    EmployeeView_User_ egu = new EmployeeView_User_();
-                    this.Hide();
-                    egu.Show();
+                    //Employee egu = new Employee();
+                    //this.Hide();
+                    //egu.Show();
                 }
 
 
@@ -175,7 +173,12 @@ namespace GreyGym
             }
         }
 
-        private void Login_Load(object sender, EventArgs e)
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }

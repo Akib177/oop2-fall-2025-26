@@ -67,3 +67,4 @@ D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\P
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe
 D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.pdb
+D:\Education\7th Semester  (Fall 25-26)\OOP 2 (C#)\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Trainer.resources

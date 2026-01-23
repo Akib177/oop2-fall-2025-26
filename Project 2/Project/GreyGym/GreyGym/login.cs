@@ -154,15 +154,15 @@ namespace GreyGym
                 }
                 else if (type == "Trainer")
                 {
-                    Trainer tgu = new Trainer();
+                   Trainer tgu = new Trainer(Session.ID);
                     this.Hide();
                     tgu.Show();
                 }
                 else if (type == "Employee")
                 {
-                    Employee egu = new Employee();
-                    this.Hide();
-                    egu.Show();
+                    //Employee egu = new Employee();
+                    //this.Hide();
+                    //egu.Show();
                 }
 
 

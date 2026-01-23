@@ -71,6 +71,18 @@
     <Compile Include="CustomerWorkout.Designer.cs">
       <DependentUpon>CustomerWorkout.cs</DependentUpon>
     </Compile>
+    <Compile Include="ProfileUpdateInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileUpdateInfo.Designer.cs">
+      <DependentUpon>ProfileUpdateInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trainer.Designer.cs">
+      <DependentUpon>Trainer.cs</DependentUpon>
+    </Compile>
     <Compile Include="PackageDash.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -194,6 +206,9 @@
     </Compile>
     <EmbeddedResource Include="Registration.resx">
       <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trainer.resx">
+      <DependentUpon>Trainer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UpdateInfo.resx">
       <DependentUpon>UpdateInfo.cs</DependentUpon>

@@ -176,15 +176,9 @@ namespace project
                     int amount = Convert.ToInt32(dt.Rows[0]["Price"]);
                     Session.Amount = amount;
 
-<<<<<<< HEAD
-                    Payment pm = new Payment();
+                    CustomerPayment pm = new CustomerPayment();
                     pm.Show();
                     this.Hide();
-=======
-                  /*  Payment pm = new Payment();
-                    pm.Show();
-                    this.Hide(); */
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
 
                 }
                 catch (Exception ex)
@@ -202,11 +196,7 @@ namespace project
         private void btnHome_Click(object sender, EventArgs e)
         {
             this.Hide();
-<<<<<<< HEAD
             CustomerHome ch = new CustomerHome();
-=======
-            HomePage ch = new HomePage();
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
             ch.Show();
         }
 
@@ -223,12 +213,11 @@ namespace project
             Login login = new Login();
             login.Show();
         }
-<<<<<<< HEAD
 
         private void btnWorkout_Click(object sender, EventArgs e)
         {
             this.Hide();
-            UserWorkout uw = new UserWorkout();
+            CustomerWorkout uw = new CustomerWorkout ();
             uw.Show();
         }
 
@@ -236,7 +225,5 @@ namespace project
         {
 
         }
-=======
->>>>>>> 2e6255c400c6972ce65912c546a4f9344b515a29
     }
 }
