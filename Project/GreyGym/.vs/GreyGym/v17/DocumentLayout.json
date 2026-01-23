@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\empprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\empprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|c:\\users\\arnab\\documents\\new folder\\oop2-fall-2025-26\\project\\greygym\\greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\empprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\empprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|c:\\users\\arnab\\documents\\new folder\\oop2-fall-2025-26\\project\\greygym\\greygym\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(traineruser) .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -220,23 +220,11 @@
         },
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmpProfile.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\EmpProfile.cs",
-              "RelativeDocumentMoniker": "GreyGym\\EmpProfile.cs",
-              "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\EmpProfile.cs [Design]",
-              "RelativeToolTip": "GreyGym\\EmpProfile.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T10:45:39.664Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EmployeeHome.cs [Design]",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\EmployeeHome.cs",
               "RelativeDocumentMoniker": "GreyGym\\EmployeeHome.cs",
@@ -248,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Equipment.cs [Design]",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Equipment.cs",
               "RelativeDocumentMoniker": "GreyGym\\Equipment.cs",
@@ -260,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "EmpProfile.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\EmpProfile.cs",
               "RelativeDocumentMoniker": "GreyGym\\EmpProfile.cs",
@@ -273,19 +261,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": ".editorconfig",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\.editorconfig",
               "RelativeDocumentMoniker": "GreyGym\\.editorconfig",
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\.editorconfig",
               "RelativeToolTip": "GreyGym\\.editorconfig",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-22T11:58:26.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T11:58:26.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "EmployeeHome.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\EmployeeHome.cs",
               "RelativeDocumentMoniker": "GreyGym\\EmployeeHome.cs",
@@ -298,19 +285,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomePage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\HomePage.cs",
               "RelativeDocumentMoniker": "GreyGym\\HomePage.cs",
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\HomePage.cs [Design]",
               "RelativeToolTip": "GreyGym\\HomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:49:36.356Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-21T07:49:36.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Equipment.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Equipment.cs",
               "RelativeDocumentMoniker": "GreyGym\\Equipment.cs",
@@ -323,6 +309,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\EmpProfile.cs",
+              "RelativeDocumentMoniker": "GreyGym\\EmpProfile.cs",
+              "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\EmpProfile.cs [Design]",
+              "RelativeToolTip": "GreyGym\\EmpProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T10:45:39.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ManagerialView(TrainerUser) .cs [Design]",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(TrainerUser) .cs",
@@ -330,8 +328,7 @@
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(TrainerUser) .cs [Design]",
               "RelativeToolTip": "GreyGym\\ManagerialView(TrainerUser) .cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:55:35.573Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-21T07:55:35.573Z"
             },
             {
               "$type": "Document",
@@ -342,8 +339,7 @@
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Packages).cs [Design]",
               "RelativeToolTip": "GreyGym\\ManagerialView(Packages).cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T20:10:04.568Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-21T20:10:04.568Z"
             },
             {
               "$type": "Document",
@@ -354,8 +350,7 @@
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(DietPlan).cs [Design]",
               "RelativeToolTip": "GreyGym\\ManagerialView(DietPlan).cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:54:55.261Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-21T07:54:55.261Z"
             },
             {
               "$type": "Document",
@@ -366,8 +361,7 @@
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\login.cs [Design]",
               "RelativeToolTip": "GreyGym\\login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T09:17:04.156Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-21T09:17:04.156Z"
             },
             {
               "$type": "Document",
@@ -379,8 +373,7 @@
               "RelativeToolTip": "GreyGym\\ManagerialView(DietPlan).cs",
               "ViewState": "AgIAAMQAAAAAAAAAAADwv+sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:49:23.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:49:23.241Z"
             },
             {
               "$type": "Document",
@@ -415,8 +408,7 @@
               "RelativeToolTip": "GreyGym\\ManagerialView(TrainerUser) .cs",
               "ViewState": "AgIAAJwAAAAAAAAAAAAQwIQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:55:53.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:55:53.362Z"
             },
             {
               "$type": "Document",
@@ -590,7 +582,8 @@
               "RelativeToolTip": "GreyGym\\GreyGym.csproj.user",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2026-01-21T07:49:22.977Z"
+              "WhenOpened": "2026-01-21T07:49:22.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -674,8 +667,7 @@
               "RelativeToolTip": "GreyGym\\ManagerialView(TrainerUser) .Designer.cs",
               "ViewState": "AgIAAKECAAAAAAAAAAAYwMoCAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:55:46.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:55:46.635Z"
             },
             {
               "$type": "Document",
@@ -699,8 +691,7 @@
               "RelativeToolTip": "GreyGym\\ManagerialView(Packages).Designer.cs",
               "ViewState": "AgIAACYCAAAAAAAAAAAYwE8CAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:49:23.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:49:23.397Z"
             },
             {
               "$type": "Document",
@@ -712,8 +703,7 @@
               "RelativeToolTip": "GreyGym\\ManagerialView(Packages).cs",
               "ViewState": "AgIAALsAAAAAAAAAAAAYwOQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:49:23.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:49:23.357Z"
             },
             {
               "$type": "Document",
@@ -725,8 +715,7 @@
               "RelativeToolTip": "GreyGym\\ManagerialView(DietPlan).Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:49:23.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:49:23.28Z"
             },
             {
               "$type": "Document",
@@ -738,8 +727,7 @@
               "RelativeToolTip": "GreyGym\\login.cs",
               "ViewState": "AgIAAIgAAAAAAAAAAAAYwKcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:49:23.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:49:23.178Z"
             },
             {
               "$type": "Document",
@@ -751,8 +739,7 @@
               "RelativeToolTip": "GreyGym\\HomePage.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:49:23.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:49:23.087Z"
             },
             {
               "$type": "Document",
@@ -764,8 +751,7 @@
               "RelativeToolTip": "GreyGym\\HomePage.cs",
               "ViewState": "AgIAACkAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:49:23.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:49:23.043Z"
             },
             {
               "$type": "Document",
@@ -813,8 +799,7 @@
               "RelativeToolTip": "GreyGym\\login.Designer.cs",
               "ViewState": "AgIAAJYAAAAAAAAAAAAowKUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:28:43.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T06:28:43.681Z"
             },
             {
               "$type": "Document",
