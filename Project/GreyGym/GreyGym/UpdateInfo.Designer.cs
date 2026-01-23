@@ -173,7 +173,6 @@
             this.txtGmail.Name = "txtGmail";
             this.txtGmail.Size = new System.Drawing.Size(138, 26);
             this.txtGmail.TabIndex = 6;
-            this.txtGmail.TextChanged += new System.EventHandler(this.txtGmail_TextChanged);
             // 
             // label6
             // 
@@ -191,7 +190,7 @@
             // 
             this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(76)))));
             this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.Font = new System.Drawing.Font("Modern No. 20", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button4.Location = new System.Drawing.Point(0, 6);
             this.button4.Margin = new System.Windows.Forms.Padding(2);

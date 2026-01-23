@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Project",
+    "\\Project\\GreyGym",
+    "\\Project\\GreyGym\\GreyGym"
   ],
+  "SelectedNode": "\\Project\\GreyGym\\GreyGym",
   "PreviewInSolutionExplorer": false
 }

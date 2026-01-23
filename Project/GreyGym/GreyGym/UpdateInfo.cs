@@ -181,10 +181,5 @@ namespace GreyGym
         {
 
         }
-
-        private void txtGmail_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

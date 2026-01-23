@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAWoAAAEECAYAAAABJn7JAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAE6uSURBVHhe7d0JmF1VmS5+8HZ7e7j//l+1xYaEjIRAOgmESg2pqqQqCSmSAAkhJGQgGMKgCBhm
@@ -460,19 +460,18 @@
         SUVORK5CYII=
 </value>
   </data>
-  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH0SURBVFhH7ZXJilRBEEWP4gTOgqLf4AiKGxe60Rbd+DO6
-        0Y2KE4ID/oA7h6Uf0CAibrW7VwqCs4KKCxFFHDhFZHcQVtmvoJfvQlCV9924LzIzMh/06NGjR3csAQ4A
-        l4GHwAfgR8T74HymRu2CYQtwCfgM/OkYas3ZXM3GwRrgOvA9GT8GTgOHorAVEf4/CJwDnie9uVfDaywc
-        A94kI5d7TxWNwCJgH/Ax5b8Oz3mxHLiREn/H79miWxZL/DYKvRhcxvniYbiiVTeLDcCDEP6KpZ6O8e6i
-        9YXNtIVcxt7g9TgTno7vA+uLlk3ATAhcOvdYfAmuJuTtaSGX4YTk9RATwKdUlO8cQPOpZLJ1zoNvwa9M
-        nOhSwKrg9WjQu+U+aROrBWxLCc+C35E4MWwLLhTNruCfJm77sAKEy9H22zO8P/ibwZ2c8xjARrIIzUY1
-        4anI1UN4QbW7xAlvLPpBNTaIgp/AceBwjN8Bq2vCf+C59+iaq8eJ8HQ8CayrCQ1LgWtpWR8lo9vA4pow
-        BGruRI65ejS/K12v6aPAy5TY4hawtooTfHZ3SN4L4EgVzweX0cvmazHz8rEnbExnY+wMzmdZa67NOc72
-        /QMb1CbzOq0zGxWv4sWzZ30h4N7ayV6x9+Kj48fG8L+cHyNPUJde6dGjR48B/gJ3K8JsoVUo3gAAAABJ
-        RU5ErkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAG6SURBVEhL7Za5SnVBEIQ/AxVxw8wHEEM3zMVYMRMDU/El
+        XAIVFxBEfAjlFzPBxEwzNfAh3EMRjfylYAaatud6rgYa3IKCw3R1NTPTM3OggQb+AEaBVeAUuANeE/Wt
+        sRVgxCf9BFPAFfC/Ii+ASW9SD/qBk8C4Ko+BPm/6FWaAl8DsAVgAhoD2xGFgMcW8/hmY9uYRmoB14D0w
+        +Qd0+gQDxQ6DPHmtJe8QCuwFibloMdFAmqi4uFvy2A7Eopaw1kw9uoDHwEfc8uL5QJSpPbVoSQa3wA2w
+        mcYslgKfzLksGgTeAkGm4hYq5DUas1DDeU2mzv6ARJdB0NIvs2bpNRqzUI7XWKom10HA8juFtc9eY6ma
+        jBeOT6bOrEW01BtOU2upVWssC9XqXpCpy8FCjaTimmWpuZYDn8wdK1TieSAS6z1O3cBT4COeAc0+oafG
+        futSCA+/gzRHQb4ob9UI0ZteF5+Ui6tpStBMS0XlKe+aaAMOgmRRN5IuB727HYn61p6Wlnc/eVaClmy2
+        cHSqUrnyqLJFn6Cm0stSmk1ErYr+VOppyCJagYn0eqn7782vj741ppg00jbQwO/hAw/YJO5a+fpqAAAA
+        AElFTkSuQmCC
 </value>
   </data>
 </root>
