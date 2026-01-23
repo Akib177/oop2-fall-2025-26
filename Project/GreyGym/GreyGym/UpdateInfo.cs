@@ -171,9 +171,9 @@ namespace GreyGym
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            CustomerHome C = new CustomerHome();
-            C.Show();
-            this.Hide();
+           EmployeeHome empHome = new EmployeeHome();
+            empHome.Show();
+            this.Close();
         }
 
         private void cmbGender_SelectedIndexChanged(object sender, EventArgs e)

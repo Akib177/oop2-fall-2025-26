@@ -160,9 +160,9 @@ namespace GreyGym
                 }
                 else if (type == "Employee")
                 {
-                    //Employee egu = new Employee();
-                    //this.Hide();
-                    //egu.Show();
+                    EmployeeHome ehu = new EmployeeHome();
+                    this.Hide();
+                    ehu.Show();
                 }
 
 
