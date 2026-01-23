@@ -47,11 +47,45 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationHelper.cs" />
-    <Compile Include="PackageDash.cs">
+<<<<<<< HEAD
+    <Compile Include="EmployeeHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PackageDash.Designer.cs">
-      <DependentUpon>PackageDash.cs</DependentUpon>
+    <Compile Include="EmployeeHome.Designer.cs">
+      <DependentUpon>EmployeeHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpProfile.Designer.cs">
+      <DependentUpon>EmpProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipment.Designer.cs">
+      <DependentUpon>Equipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageDash.cs">
+=======
+    <Compile Include="Registration.cs">
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
     </Compile>
     <Compile Include="ManegerialView%28Amount%29.cs">
       <SubType>Form</SubType>
@@ -95,6 +129,7 @@
     <Compile Include="ManagerialView%28DietPlan%29.Designer.cs">
       <DependentUpon>ManagerialView%28DietPlan%29.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="ProfileUpdateInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +141,13 @@
     </Compile>
     <Compile Include="Trainer.Designer.cs">
       <DependentUpon>Trainer.cs</DependentUpon>
+=======
+    <Compile Include="Packages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Packages.Designer.cs">
+      <DependentUpon>Packages.cs</DependentUpon>
+>>>>>>> c06fb626e093fa69f257ec42b8d90c3b7f46cb0d
     </Compile>
     <Compile Include="UpdateInfo.cs">
       <SubType>Form</SubType>
@@ -114,46 +156,34 @@
       <DependentUpon>UpdateInfo.cs</DependentUpon>
     </Compile>
     <Compile Include="Session.cs" />
-    <Compile Include="Registration.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Registration.Designer.cs">
-      <DependentUpon>Registration.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Packages.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Packages.Designer.cs">
-      <DependentUpon>Packages.cs</DependentUpon>
-    </Compile>
-    <Compile Include="login.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="login.Designer.cs">
-      <DependentUpon>login.cs</DependentUpon>
-    </Compile>
-    <Compile Include="HomePage.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="HomePage.Designer.cs">
-      <DependentUpon>HomePage.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
+    <EmbeddedResource Include="EmployeeHome.resx">
+      <DependentUpon>EmployeeHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpProfile.resx">
+      <DependentUpon>EmpProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment.resx">
+      <DependentUpon>Equipment.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
     <EmbeddedResource Include="HomePage.resx">
       <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ManagerialView%28DietPlan%29.resx">
       <DependentUpon>ManagerialView%28DietPlan%29.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ManagerialView%28Incident%29.resx">
       <DependentUpon>ManagerialView%28Incident%29.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="PackageDash.resx">
-      <DependentUpon>PackageDash.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Packages.resx">
       <DependentUpon>Packages.cs</DependentUpon>
@@ -169,6 +199,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Registration.resx">
       <DependentUpon>Registration.cs</DependentUpon>
@@ -192,6 +223,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-352.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-profile-3511.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-Photoroom1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-workout-35 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-profile-351.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

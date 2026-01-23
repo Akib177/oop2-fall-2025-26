@@ -60,10 +60,10 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.btnSave = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label9 = new System.Windows.Forms.Label();
             this.btnRefresh = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnNew = new System.Windows.Forms.Button();
-            this.label9 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -170,6 +170,7 @@
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(176, 23);
             this.txtName.TabIndex = 6;
+            this.txtName.TextChanged += new System.EventHandler(this.txtName_TextChanged);
             // 
             // txtId
             // 
@@ -251,6 +252,7 @@
             this.button8.TabIndex = 20;
             this.button8.Text = "Logout";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button7
             // 
@@ -264,6 +266,7 @@
             this.button7.TabIndex = 19;
             this.button7.Text = "WorkoutPlan";
             this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button6
             // 
@@ -277,6 +280,7 @@
             this.button6.TabIndex = 18;
             this.button6.Text = "Incident";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button5
             // 
@@ -290,6 +294,7 @@
             this.button5.TabIndex = 17;
             this.button5.Text = "TrainerUser";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // btnGym
             // 
@@ -303,6 +308,7 @@
             this.btnGym.TabIndex = 16;
             this.btnGym.Text = "Equipment";
             this.btnGym.UseVisualStyleBackColor = false;
+            this.btnGym.Click += new System.EventHandler(this.btnGym_Click);
             // 
             // btnUserpackage
             // 
@@ -316,6 +322,7 @@
             this.btnUserpackage.TabIndex = 15;
             this.btnUserpackage.Text = "UserPackage";
             this.btnUserpackage.UseVisualStyleBackColor = false;
+            this.btnUserpackage.Click += new System.EventHandler(this.btnUserpackage_Click);
             // 
             // btnDiet
             // 
@@ -329,6 +336,7 @@
             this.btnDiet.TabIndex = 14;
             this.btnDiet.Text = "DietPlan";
             this.btnDiet.UseVisualStyleBackColor = false;
+            this.btnDiet.Click += new System.EventHandler(this.btnDiet_Click);
             // 
             // btnPackage
             // 
@@ -342,6 +350,7 @@
             this.btnPackage.TabIndex = 13;
             this.btnPackage.Text = "Package";
             this.btnPackage.UseVisualStyleBackColor = false;
+            this.btnPackage.Click += new System.EventHandler(this.btnPackage_Click);
             // 
             // btnPaymet
             // 
@@ -355,6 +364,7 @@
             this.btnPaymet.TabIndex = 12;
             this.btnPaymet.Text = "Payment";
             this.btnPaymet.UseVisualStyleBackColor = false;
+            this.btnPaymet.Click += new System.EventHandler(this.btnPaymet_Click_1);
             // 
             // btnUser
             // 
@@ -368,6 +378,7 @@
             this.btnUser.TabIndex = 11;
             this.btnUser.Text = "UserInfo";
             this.btnUser.UseVisualStyleBackColor = false;
+            this.btnUser.Click += new System.EventHandler(this.btnUser_Click);
             // 
             // dataGridView1
             // 
@@ -478,6 +489,17 @@
             this.panel1.Size = new System.Drawing.Size(885, 53);
             this.panel1.TabIndex = 0;
             // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Segoe UI Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.Color.White;
+            this.label9.Location = new System.Drawing.Point(407, 6);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(235, 37);
+            this.label9.TabIndex = 4;
+            this.label9.Text = "Incident Reports";
+            // 
             // btnRefresh
             // 
             this.btnRefresh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(76)))));
@@ -522,17 +544,6 @@
             this.btnNew.Text = "New";
             this.btnNew.UseVisualStyleBackColor = false;
             this.btnNew.Click += new System.EventHandler(this.btnNew_Click);
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Segoe UI Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(407, 6);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(235, 37);
-            this.label9.TabIndex = 4;
-            this.label9.Text = "Incident Reports";
             // 
             // ManagerialView_Incident_
             // 

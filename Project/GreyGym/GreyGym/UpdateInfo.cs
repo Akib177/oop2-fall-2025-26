@@ -170,6 +170,25 @@ namespace GreyGym
 
         }
 
+<<<<<<< HEAD
        
+=======
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CustomerHome C = new CustomerHome();
+            C.Show();
+            this.Hide();
+        }
+
+        private void cmbGender_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtGmail_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+>>>>>>> c06fb626e093fa69f257ec42b8d90c3b7f46cb0d
     }
 }

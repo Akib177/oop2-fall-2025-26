@@ -76,13 +76,12 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(290, 3);
+            this.pictureBox1.Location = new System.Drawing.Point(305, -13);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(117, 84);
+            this.pictureBox1.Size = new System.Drawing.Size(140, 116);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // panel2
             // 
@@ -119,6 +118,7 @@
             this.btnHLogin.TabIndex = 1;
             this.btnHLogin.Text = "Login";
             this.btnHLogin.UseVisualStyleBackColor = false;
+            this.btnHLogin.Click += new System.EventHandler(this.btnHLogin_Click);
             this.btnHLogin.MouseLeave += new System.EventHandler(this.btnHLogin_MouseLeave);
             this.btnHLogin.MouseHover += new System.EventHandler(this.btnHLogin_MouseHover);
             // 

@@ -8,6 +8,6 @@ namespace GreyGym
 {
     internal static class ApplicationHelper
     {
-        public static string cs = @"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True";
+        public static string cs = @"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";
     }
 }
