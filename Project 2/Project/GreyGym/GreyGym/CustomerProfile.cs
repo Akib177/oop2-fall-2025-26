@@ -106,5 +106,10 @@ namespace GreyGym
             cw.Show();
             this.Hide();
         }
+
+        private void textBox1_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
