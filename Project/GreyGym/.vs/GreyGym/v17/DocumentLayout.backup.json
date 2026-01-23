@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -25,6 +26,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\employeehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|d:\\education\\7th semester  (fall 25-26)\\oop 2 (c#)\\oop2-fall-2025-26\\project\\greygym\\greygym\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
@@ -111,8 +128,21 @@
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\updateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\updateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\updateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\empprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,6 +205,7 @@
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -200,16 +231,139 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\updateinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\applicationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\applicationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\packages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\packages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(dietplan).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(dietplan).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(incident).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(incident).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(incident).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(incident).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(incident).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(incident).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(dietplan).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(dietplan).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\manegerialview(amount).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\manegerialview(amount).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(userpackage).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(userpackage).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(user).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(user).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(traineruser) .designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(traineruser) .designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(traineruser) .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(traineruser) .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(traineruser) .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(traineruser) .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(packages).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(packages).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(packages).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(packages).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(packages).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(packages).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\manegerialview(amount).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\manegerialview(amount).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(userpackage).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(userpackage).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(dietplan).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(dietplan).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\GreyGym.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreyGym\\GreyGym.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\manegerialview(amount).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\manegerialview(amount).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(userpackage).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(userpackage).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\updateinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\updateinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
+<<<<<<< HEAD
       "Orientation": 1,
+=======
+      "Orientation": 0,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
       "VerticalTabListWidth": 263,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
+          "DockedWidth": 202,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -219,8 +373,13 @@
           ]
         },
         {
+<<<<<<< HEAD
           "DockedHeight": 200,
           "SelectedChildIndex": 1,
+=======
+          "DockedWidth": 206,
+          "SelectedChildIndex": 10,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
           "Children": [
             {
               "$type": "Document",
@@ -335,6 +494,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
               "Title": "ManagerialView(Packages).cs [Design]",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Packages).cs",
@@ -365,12 +525,117 @@
               "RelativeDocumentMoniker": "GreyGym\\login.cs",
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\login.cs [Design]",
               "RelativeToolTip": "GreyGym\\login.cs [Design]",
+=======
+              "DocumentIndex": 8,
+              "Title": "Registration.Designer.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Registration.Designer.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Registration.Designer.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Registration.Designer.cs",
+              "RelativeToolTip": "GreyGym\\Registration.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwP4AAABeAAAAAAAAAA==",
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T09:17:04.156Z",
+              "WhenOpened": "2026-01-22T16:23:16.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Registration.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Registration.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Registration.cs",
+              "RelativeToolTip": "GreyGym\\Registration.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:23:13.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Registration.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Registration.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Registration.cs [Design]",
+              "RelativeToolTip": "GreyGym\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:22:02.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Packages.Designer.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Packages.Designer.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Packages.Designer.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Packages.Designer.cs",
+              "RelativeToolTip": "GreyGym\\Packages.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwJEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:07:15.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Packages.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Packages.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Packages.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Packages.cs",
+              "RelativeToolTip": "GreyGym\\Packages.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAcwJwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:07:12.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Packages.cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Packages.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Packages.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Packages.cs [Design]",
+              "RelativeToolTip": "GreyGym\\Packages.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:06:55.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Login.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Login.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Login.cs",
+              "RelativeToolTip": "GreyGym\\Login.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAASwJUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:58:39.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Login.Designer.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Login.Designer.cs",
+              "RelativeToolTip": "GreyGym\\Login.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:58:37.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Login.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Login.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Login.cs [Design]",
+              "RelativeToolTip": "GreyGym\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:58:18.641Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 12,
               "Title": "ManagerialView(DietPlan).cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(DietPlan).cs",
@@ -380,10 +645,34 @@
               "ViewState": "AgIAAMQAAAAAAAAAAADwv+sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T07:49:23.241Z",
+=======
+              "DocumentIndex": 3,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\HomePage.cs",
+              "RelativeDocumentMoniker": "GreyGym\\HomePage.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\HomePage.cs",
+              "RelativeToolTip": "GreyGym\\HomePage.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA0wDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:42:53.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.Designer.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\HomePage.Designer.cs",
+              "RelativeDocumentMoniker": "GreyGym\\HomePage.Designer.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\HomePage.Designer.cs",
+              "RelativeToolTip": "GreyGym\\HomePage.Designer.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAcwFsBAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:42:11.944Z",
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
               "Title": "ManagerialView(Incident).cs [Design]",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).cs",
@@ -493,12 +782,42 @@
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\UpdateInfo.cs",
               "RelativeDocumentMoniker": "GreyGym\\UpdateInfo.cs",
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\UpdateInfo.cs [Design]",
+=======
+              "DocumentIndex": 2,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\HomePage.cs",
+              "RelativeDocumentMoniker": "GreyGym\\HomePage.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\HomePage.cs [Design]",
+              "RelativeToolTip": "GreyGym\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:41:48.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManagerialView(Packages).cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Packages).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Packages).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Packages).cs [Design]",
+              "RelativeToolTip": "GreyGym\\ManagerialView(Packages).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T20:10:04.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\UpdateInfo.cs",
+              "RelativeDocumentMoniker": "GreyGym\\UpdateInfo.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\UpdateInfo.cs [Design]",
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "RelativeToolTip": "GreyGym\\UpdateInfo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T19:01:52.623Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 23,
               "Title": "ManagerialView(UserPackage).cs [Design]",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(UserPackage).cs",
@@ -583,6 +902,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 46,
+=======
+              "DocumentIndex": 35,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "GreyGym.csproj.user",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\GreyGym.csproj.user",
               "RelativeDocumentMoniker": "GreyGym\\GreyGym.csproj.user",
@@ -594,18 +916,23 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 45,
+=======
+              "DocumentIndex": 9,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ApplicationHelper.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ApplicationHelper.cs",
               "RelativeDocumentMoniker": "GreyGym\\ApplicationHelper.cs",
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ApplicationHelper.cs",
               "RelativeToolTip": "GreyGym\\ApplicationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T07:49:22.794Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 32,
               "Title": "PackageDash.Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\PackageDash.Designer.cs",
@@ -619,6 +946,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 41,
+=======
+              "DocumentIndex": 31,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ManegerialView(Amount).Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManegerialView(Amount).Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\ManegerialView(Amount).Designer.cs",
@@ -630,7 +960,34 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 33,
+=======
+              "DocumentIndex": 22,
+              "Title": "ManegerialView(Amount).cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManegerialView(Amount).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManegerialView(Amount).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManegerialView(Amount).cs",
+              "RelativeToolTip": "GreyGym\\ManegerialView(Amount).cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAiwFYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:58:56.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManegerialView(Amount).cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManegerialView(Amount).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManegerialView(Amount).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManegerialView(Amount).cs [Design]",
+              "RelativeToolTip": "GreyGym\\ManegerialView(Amount).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:58:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ManagerialView(UserPackage).cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(UserPackage).cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(UserPackage).cs",
@@ -642,7 +999,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 47,
+=======
+              "DocumentIndex": 37,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ManagerialView(UserPackage).Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(UserPackage).Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(UserPackage).Designer.cs",
@@ -654,7 +1015,22 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 34,
+=======
+              "DocumentIndex": 33,
+              "Title": "ManagerialView(UserPackage).cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(UserPackage).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(UserPackage).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(UserPackage).cs [Design]",
+              "RelativeToolTip": "GreyGym\\ManagerialView(UserPackage).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:57:58.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ManagerialView(User).Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(User).Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(User).Designer.cs",
@@ -666,7 +1042,46 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 35,
+=======
+              "DocumentIndex": 20,
+              "Title": "ManagerialView(User).cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(User).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(User).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(User).cs",
+              "RelativeToolTip": "GreyGym\\ManagerialView(User).cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:56:41.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManagerialView(User).cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(User).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(User).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(User).cs [Design]",
+              "RelativeToolTip": "GreyGym\\ManagerialView(User).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:56:34.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManagerialView(TrainerUser) .cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(TrainerUser) .cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(TrainerUser) .cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(TrainerUser) .cs",
+              "RelativeToolTip": "GreyGym\\ManagerialView(TrainerUser) .cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAYwIQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:55:53.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ManagerialView(TrainerUser) .Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(TrainerUser) .Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(TrainerUser) .Designer.cs",
@@ -679,19 +1094,76 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 44,
+=======
+              "DocumentIndex": 26,
+              "Title": "ManagerialView(TrainerUser) .cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(TrainerUser) .cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(TrainerUser) .cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(TrainerUser) .cs [Design]",
+              "RelativeToolTip": "GreyGym\\ManagerialView(TrainerUser) .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:55:35.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ManagerialView(DietPlan).cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(DietPlan).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(DietPlan).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(DietPlan).cs [Design]",
+              "RelativeToolTip": "GreyGym\\ManagerialView(DietPlan).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:54:55.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ManagerialView(Incident).Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Incident).Designer.cs",
               "ToolTip": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).Designer.cs",
               "RelativeToolTip": "GreyGym\\ManagerialView(Incident).Designer.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAADgCAAAAAAAAAAAYwGECAAABAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwGECAAABAAAAAAAAAA==",
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T07:54:26.869Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 36,
+=======
+              "DocumentIndex": 18,
+              "Title": "ManagerialView(Incident).cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Incident).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).cs",
+              "RelativeToolTip": "GreyGym\\ManagerialView(Incident).cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwIgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:54:06.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManagerialView(Incident).cs [Design]",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Incident).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).cs [Design]",
+              "RelativeToolTip": "GreyGym\\ManagerialView(Incident).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:53:59.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ManagerialView(Packages).Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Packages).Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Packages).Designer.cs",
@@ -704,7 +1176,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 37,
+=======
+              "DocumentIndex": 30,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ManagerialView(Packages).cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Packages).cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Packages).cs",
@@ -717,7 +1193,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 38,
+=======
+              "DocumentIndex": 19,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "ManagerialView(DietPlan).Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(DietPlan).Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(DietPlan).Designer.cs",
@@ -730,6 +1210,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 39,
               "Title": "login.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\login.cs",
@@ -770,6 +1251,21 @@
             {
               "$type": "Document",
               "DocumentIndex": 49,
+=======
+              "DocumentIndex": 15,
+              "Title": "ManagerialView(DietPlan).cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(DietPlan).cs",
+              "RelativeDocumentMoniker": "GreyGym\\ManagerialView(DietPlan).cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(DietPlan).cs",
+              "RelativeToolTip": "GreyGym\\ManagerialView(DietPlan).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:49:23.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
               "Title": "UpdateInfo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\UpdateInfo.Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\UpdateInfo.Designer.cs",
@@ -781,6 +1277,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 42,
               "Title": "Registration.Designer.cs",
               "DocumentMoniker": "C:\\Users\\arnab\\Documents\\New folder\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Registration.Designer.cs",
@@ -827,6 +1324,29 @@
               "ViewState": "AgIAAN4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T06:28:11.114Z"
+=======
+              "DocumentIndex": 4,
+              "Title": "UpdateInfo.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\UpdateInfo.cs",
+              "RelativeDocumentMoniker": "GreyGym\\UpdateInfo.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\UpdateInfo.cs",
+              "RelativeToolTip": "GreyGym\\UpdateInfo.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAYwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:49:22.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Program.cs",
+              "RelativeDocumentMoniker": "GreyGym\\Program.cs",
+              "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Program.cs",
+              "RelativeToolTip": "GreyGym\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:49:22.481Z"
+>>>>>>> 47a3906fe6ac134da28863df1705048d88970c9f
             }
           ]
         }

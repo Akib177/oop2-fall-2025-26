@@ -265,5 +265,10 @@ namespace GreyGym
             Login lg = new Login();
             lg.Show();
         }
+
+        private void txtName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
