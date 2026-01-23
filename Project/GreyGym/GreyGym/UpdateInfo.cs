@@ -170,6 +170,9 @@ namespace GreyGym
 
         }
 
+<<<<<<< HEAD
+       
+=======
         private void button1_Click(object sender, EventArgs e)
         {
             CustomerHome C = new CustomerHome();
@@ -186,5 +189,6 @@ namespace GreyGym
         {
 
         }
+>>>>>>> c06fb626e093fa69f257ec42b8d90c3b7f46cb0d
     }
 }

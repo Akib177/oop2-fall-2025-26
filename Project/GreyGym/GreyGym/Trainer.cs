@@ -1,0 +1,100 @@
+﻿using System;
+using System.Data;
+using System.Data.SqlClient;
+using System.Windows.Forms;
+
+namespace GreyGym
+{
+    public partial class Trainer : Form
+    {
+        private int loggedTrainerId;
+
+        public Trainer(int trainerId)
+        {
+            InitializeComponent();
+            loggedTrainerId = trainerId;
+        }
+
+        private void Trainer_Load(object sender, EventArgs e)
+        {
+            if (dataGridView1 != null)
+            {
+                dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+                dataGridView1.ReadOnly = true;
+                dataGridView1.AllowUserToAddRows = false;
+                dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+                dataGridView1.MultiSelect = false;
+            }
+        }
+
+        private void btnHome_Click(object sender, EventArgs e)
+        {
+            HomePage home = new HomePage();
+            home.Show();
+            this.Close();
+        }
+
+        private void btnMember_Click(object sender, EventArgs e)
+        {
+            string cs = @"Data Source=LAPTOP-R36494D9\SQLEXPRESS;Integrated Security=True";
+
+            string query = @"
+                SELECT ui.Name, ui.Gender, ui.UserType, up.StartDate, up.EndDate
+                FROM TrainerUser tu
+                INNER JOIN UserInfo ui ON tu.UID = ui.UserId
+                INNER JOIN UserPackage up ON tu.UID = up.UserId
+                WHERE tu.TID = @TrainerID
+            ";
+
+            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlCommand cmd = new SqlCommand(query, con))
+            using (SqlDataAdapter da = new SqlDataAdapter(cmd))
+            {
+                cmd.Parameters.Add("@TrainerID", SqlDbType.Int).Value = loggedTrainerId;
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                dataGridView1.DataSource = dt;
+            }
+        }
+
+        private void btnDiet_Click(object sender, EventArgs e)
+        {
+            string cs = @"Data Source=LAPTOP-R36494D9\SQLEXPRESS;Integrated Security=True";
+
+            string query = @"
+                SELECT ui.Name, ui.Gender, ui.UserType,
+                       dp.CurrentWeight, dp.TargetWeight,
+                       dp.Goal, dp.FoodPlan, dp.StartDate
+                FROM DietPlan dp
+                INNER JOIN UserInfo ui ON dp.UserID = ui.UserId
+                WHERE dp.TrainerID = @TrainerID
+            ";
+
+            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlCommand cmd = new SqlCommand(query, con))
+            using (SqlDataAdapter da = new SqlDataAdapter(cmd))
+            {
+                cmd.Parameters.Add("@TrainerID", SqlDbType.Int).Value = loggedTrainerId;
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                dataGridView1.DataSource = dt;
+            }
+        }
+
+        private void btnProfile_Click(object sender, EventArgs e)
+        {
+            ProfileUpdateInfo p =
+                new ProfileUpdateInfo(loggedTrainerId, loggedTrainerId, this);
+
+            this.Hide();
+            p.Show();
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            HomePage home = new HomePage();
+            home.Show();
+            this.Close();
+        }
+    }
+}
