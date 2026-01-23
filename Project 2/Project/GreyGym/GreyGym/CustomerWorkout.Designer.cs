@@ -250,7 +250,7 @@
             this.dataview.Name = "dataview";
             this.dataview.RowHeadersWidth = 51;
             this.dataview.RowTemplate.Height = 24;
-            this.dataview.Size = new System.Drawing.Size(563, 271);
+            this.dataview.Size = new System.Drawing.Size(545, 245);
             this.dataview.TabIndex = 29;
             this.dataview.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.PaymentDGV_CellContentClick);
             // 

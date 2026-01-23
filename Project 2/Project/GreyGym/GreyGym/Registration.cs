@@ -134,12 +134,12 @@ namespace project
 
             try
             {
-                SqlConnection con = new SqlConnection(); // Connection dewa
+                SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True"); // Connection dewa
                 con.ConnectionString = ApplicationHelper.cs;
 
                 con.Open();
 
-                SqlCommand cmd = new SqlCommand(); // panel banano
+                SqlCommand cmd = new SqlCommand(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True"); // panel banano
                 cmd.Connection = con; // database select hoye gese
                 cmd.CommandText = $"insert into UserInfo values ('{name}','{email}','{phone}','{password}','{gender}','Customer')";
                 cmd.ExecuteNonQuery();

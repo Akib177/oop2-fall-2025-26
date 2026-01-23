@@ -14,35 +14,15 @@ namespace GreyGym
 {
     public partial class CustomerPayment : Form
     {
+        
         public CustomerPayment()
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection("Data Source=RAHUL_SARKER\\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
+       
 
-        private void FillName()
-        {
-            con.Open();
-            SqlCommand cmd = new SqlCommand("select MName from MemberTbl", con);
-            SqlDataReader rdr = cmd.ExecuteReader();
-            DataTable dt = new DataTable();
-            dt.Columns.Add("MName", typeof(string));
-            dt.Load(rdr);
-         //   NameCB = "MName";
-          //  NameCB= dt;
-            con.Close();
-        }
-        private void Populate()
-        {
-            con.Open();
-            string query = "select * from Amount";
-            SqlDataAdapter sda = new SqlDataAdapter(query, con);
-            SqlCommandBuilder builder = new SqlCommandBuilder(sda);
-            var ds = new DataSet();
-            sda.Fill(ds);
-            PaymentDGV.DataSource = ds.Tables[0];
-            con.Close();
-        }
+        
+       
         private void txtGmail_TextChanged(object sender, EventArgs e)
         {
 
@@ -60,14 +40,21 @@ namespace GreyGym
 
         private void Reset_Button_Click(object sender, EventArgs e)
         {
-            AmountTb.Text = "";
-            NameCB.Text = "";
+          
         }
 
         private void CustomerPayment_Load(object sender, EventArgs e)
         {
-            FillName();
-            Populate();
+            SqlConnection con = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=SportsDB;Integrated Security=True;TrustServerCertificate=True");
+
+            con.Open();
+
+            SqlCommand cnn = new SqlCommand("select * from Amount ", con);
+
+            SqlDataAdapter da = new SqlDataAdapter(cnn);
+            DataTable table = new DataTable();
+            da.Fill(table);
+            PaymentDGV.DataSource = table;
 
 
             //string query = ("SELECT Package.PackageName, UserPackage.IsActive FROM UserPackage INNER JOIN Package ON UserPackage.PackageId = Package.PackageId "); ;
@@ -79,52 +66,41 @@ namespace GreyGym
         }
         private void Reset_AllBoxes()
         {
-            NameCB.Text = "";
-            AmountTb.Text = "";
+           
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-          
-            if (NameCB.Text == "" || AmountTb.Text == "")
-            {
-                MessageBox.Show("select amount and package  ");
-            }
-            else
-            {
-                try
-                {
-                    con.Open();
-                    string status = "Confirm";
-                    
-                    string query = "insert into Amount ( Amount, Method, PaymentStatus) values('" + AmountTb.Text + "','" + PayoptionTb + "'," + AmountTb.Text + status + "')";
+            SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
 
-                    SqlCommand cmd = new SqlCommand(query, con);
-                    cmd.ExecuteNonQuery();
-                    MessageBox.Show("Payment Confirmed Successfully");
-                    con.Close();
-                    Populate();
-                    Reset_AllBoxes();
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(ex.Message);
-                    con.Close();
-                }
-            }
+            con.Open();
+
+            SqlCommand cnn = new SqlCommand("insert into Amount Values(@Amount, @Method, @PaymentStatus, @Goal)", con);
+
+            cnn.Parameters.AddWithValue("@Amount", double.Parse(AmountTb.Text));
+            cnn.Parameters.AddWithValue("@Method", PayoptionTb.Text);
+            cnn.Parameters.AddWithValue("@PaymentStatus",txtGmail.Text );
+            
+
+            cnn.ExecuteNonQuery();
+            con.Close();
+
+            MessageBox.Show("Record Saved");
+
+
         }
         
 
         private void button3_Click(object sender, EventArgs e)
         {
             AmountTb.Text = "500";
-            NameCB.Text = "Student";
+            PackageTb.Text = "Student";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             AmountTb.Text = "1000";
-            NameCB.Text = "Standard";
+            PackageTb.Text = "Standard";
 
 
         }
@@ -132,7 +108,7 @@ namespace GreyGym
         private void button5_Click(object sender, EventArgs e)
         {
             AmountTb.Text = "1500";
-            NameCB.Text = "Primium";
+            PackageTb.Text = "Primium";
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -159,6 +135,20 @@ namespace GreyGym
             CustomerWorkout ch = new CustomerWorkout();
             ch.Show();
             this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            SqlConnection con = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=SportsDB;Integrated Security=True;TrustServerCertificate=True");
+
+            con.Open();
+
+            SqlCommand cnn = new SqlCommand("select * from Amount ", con);
+
+            SqlDataAdapter da = new SqlDataAdapter(cnn);
+            DataTable table = new DataTable();
+            da.Fill(table);
+            PaymentDGV.DataSource = table;
         }
     }
 }

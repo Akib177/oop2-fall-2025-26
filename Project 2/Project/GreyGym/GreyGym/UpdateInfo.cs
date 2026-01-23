@@ -46,11 +46,11 @@ namespace GreyGym
             try
             {
 
-                SqlConnection con = new SqlConnection();
+                SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
                 con.ConnectionString = ApplicationHelper.cs;
                 con.Open();
 
-                SqlCommand cmd = new SqlCommand();
+                SqlCommand cmd = new SqlCommand(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
                 cmd.Connection = con;
 
                 cmd.CommandText = $"select Name,Gmail,Phone,Password,Gender from UserInfo where ID ={id}";
@@ -85,7 +85,7 @@ namespace GreyGym
 
             try
             {
-                SqlConnection con = new SqlConnection();
+                SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
                 con.ConnectionString = ApplicationHelper.cs;
                 con.Open();
 

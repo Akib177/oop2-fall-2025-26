@@ -176,7 +176,7 @@ namespace project
                     int amount = Convert.ToInt32(dt.Rows[0]["Price"]);
                     Session.Amount = amount;
 
-                    Payment pm = new Payment();
+                    CustomerPayment pm = new CustomerPayment();
                     pm.Show();
                     this.Hide();
 
@@ -217,7 +217,7 @@ namespace project
         private void btnWorkout_Click(object sender, EventArgs e)
         {
             this.Hide();
-            UserWorkout uw = new UserWorkout();
+            CustomerWorkout uw = new CustomerWorkout ();
             uw.Show();
         }
 

@@ -115,11 +115,11 @@ namespace GreyGym
 
             try
             {
-                var connection = new SqlConnection();
+                var connection = new SqlConnection("@Data Source=RAHUL_SARKER\\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
                 connection.ConnectionString = ApplicationHelper.cs;
                 connection.Open();
 
-                var cmd = new SqlCommand();
+                var cmd = new SqlCommand("@Data Source=RAHUL_SARKER\\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
                 cmd.Connection = connection;
                 cmd.CommandText = $"select * from UserInfo where Gmail = '{Gmail}' and Password = '{Password}'";
 
@@ -156,15 +156,15 @@ namespace GreyGym
                 }
                 else if (type == "Trainer")
                 {
-                    TrainerView_TrainerUser_ tgu = new TrainerView_TrainerUser_();
-                    this.Hide();
-                    tgu.Show();
+                  //  TrainerView_TrainerUser_ tgu = new TrainerView_TrainerUser_();
+                 //   this.Hide();
+                  //  tgu.Show();
                 }
                 else if (type == "Employee")
                 {
-                    EmployeeView_User_ egu = new EmployeeView_User_();
-                    this.Hide();
-                    egu.Show();
+                 //   EmployeeView_User_ egu = new EmployeeView_User_();
+                //    this.Hide();
+                 //   egu.Show();
                 }
 
 
@@ -178,6 +178,13 @@ namespace GreyGym
         private void Login_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CustomerHome ch = new CustomerHome();
+            ch.Show();
+            
         }
     }
 }

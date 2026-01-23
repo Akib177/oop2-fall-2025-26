@@ -34,7 +34,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.txtGmail = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.NameCB = new System.Windows.Forms.TextBox();
+            this.PackageTb = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.AmountTb = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -130,14 +130,14 @@
             this.label6.TabIndex = 5;
             this.label6.Text = "Payment Option";
             // 
-            // NameCB
+            // PackageTb
             // 
-            this.NameCB.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NameCB.Location = new System.Drawing.Point(13, 201);
-            this.NameCB.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.NameCB.Name = "NameCB";
-            this.NameCB.Size = new System.Drawing.Size(183, 30);
-            this.NameCB.TabIndex = 3;
+            this.PackageTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.PackageTb.Location = new System.Drawing.Point(13, 201);
+            this.PackageTb.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.PackageTb.Name = "PackageTb";
+            this.PackageTb.Size = new System.Drawing.Size(183, 30);
+            this.PackageTb.TabIndex = 3;
             // 
             // label4
             // 
@@ -194,7 +194,7 @@
             this.panel1.Controls.Add(this.button8);
             this.panel1.Controls.Add(this.PayoptionTb);
             this.panel1.Controls.Add(this.label6);
-            this.panel1.Controls.Add(this.NameCB);
+            this.panel1.Controls.Add(this.PackageTb);
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.AmountTb);
             this.panel1.Controls.Add(this.label3);
@@ -278,9 +278,10 @@
             this.button4.Location = new System.Drawing.Point(900, 474);
             this.button4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(147, 53);
+            this.button4.Size = new System.Drawing.Size(54, 44);
             this.button4.TabIndex = 21;
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -402,7 +403,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox txtGmail;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox NameCB;
+        private System.Windows.Forms.TextBox PackageTb;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox AmountTb;
         private System.Windows.Forms.Label label3;

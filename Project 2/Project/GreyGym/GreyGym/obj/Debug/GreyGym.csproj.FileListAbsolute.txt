@@ -23,3 +23,25 @@ C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\Gr
 C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.UpdateInfo.resources
 C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.GenerateResource.cache
 C:\Users\rahul\OneDrive\Desktop\akibproject\oop2-fall-2025-26\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.AssemblyReference.cache
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerHome.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerPayment.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerProfile.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.CustomerWorkout.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Login.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.HomePage.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_DietPlan_.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.ManagerialView_Incident_.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\project.PackageDash.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Packages.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.Properties.Resources.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\project.Registration.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.UpdateInfo.resources
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.GenerateResource.cache
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe.config
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\bin\Debug\GreyGym.exe
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\bin\Debug\GreyGym.pdb
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.pdb
+C:\Users\rahul\OneDrive\Desktop\newakib\oop2-fall-2025-26\Project 2\Project\GreyGym\GreyGym\obj\Debug\GreyGym.exe.config
