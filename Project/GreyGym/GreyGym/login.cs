@@ -143,7 +143,7 @@ namespace GreyGym
 
                 if (type == "Customer")
                 {
-                    CustomerHome ch = new CustomerHome();
+                    HomePage ch = new HomePage();
                     this.Hide();
                     ch.Show();
                 }
