@@ -176,9 +176,9 @@ namespace project
                     int amount = Convert.ToInt32(dt.Rows[0]["Price"]);
                     Session.Amount = amount;
 
-                    Payment pm = new Payment();
+                  /*  Payment pm = new Payment();
                     pm.Show();
-                    this.Hide();
+                    this.Hide(); */
 
                 }
                 catch (Exception ex)
@@ -196,7 +196,7 @@ namespace project
         private void btnHome_Click(object sender, EventArgs e)
         {
             this.Hide();
-            CustomerHome ch = new CustomerHome();
+            HomePage ch = new HomePage();
             ch.Show();
         }
 

@@ -95,6 +95,18 @@
     <Compile Include="ManagerialView%28DietPlan%29.Designer.cs">
       <DependentUpon>ManagerialView%28DietPlan%29.cs</DependentUpon>
     </Compile>
+    <Compile Include="ProfileUpdateInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileUpdateInfo.Designer.cs">
+      <DependentUpon>ProfileUpdateInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trainer.Designer.cs">
+      <DependentUpon>Trainer.cs</DependentUpon>
+    </Compile>
     <Compile Include="UpdateInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -146,6 +158,9 @@
     <EmbeddedResource Include="Packages.resx">
       <DependentUpon>Packages.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ProfileUpdateInfo.resx">
+      <DependentUpon>ProfileUpdateInfo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -157,6 +172,9 @@
     </Compile>
     <EmbeddedResource Include="Registration.resx">
       <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trainer.resx">
+      <DependentUpon>Trainer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UpdateInfo.resx">
       <DependentUpon>UpdateInfo.cs</DependentUpon>

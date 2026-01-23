@@ -170,11 +170,6 @@ namespace GreyGym
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            CustomerHome C = new CustomerHome();
-            C.Show();
-            this.Hide();
-        }
+       
     }
 }

@@ -65,7 +65,7 @@
             // 
             this.btnLogout.BackColor = System.Drawing.Color.Azure;
             this.btnLogout.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLogout.Image = global::GreyGym.Properties.Resources.icons8_logout_35;
+          //  this.btnLogout.Image = global::GreyGym.Properties.Resources.icons8_logout_35;
             this.btnLogout.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnLogout.Location = new System.Drawing.Point(3, 476);
             this.btnLogout.Name = "btnLogout";
@@ -79,7 +79,7 @@
             // 
             this.btnWorkout.BackColor = System.Drawing.Color.Azure;
             this.btnWorkout.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnWorkout.Image = global::GreyGym.Properties.Resources.icons8_workout_35;
+          //  this.btnWorkout.Image = global::GreyGym.Properties.Resources.icons8_workout_35;
             this.btnWorkout.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnWorkout.Location = new System.Drawing.Point(3, 345);
             this.btnWorkout.Name = "btnWorkout";
@@ -92,7 +92,7 @@
             // 
             this.btnProfile.BackColor = System.Drawing.Color.Azure;
             this.btnProfile.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnProfile.Image = global::GreyGym.Properties.Resources.icons8_profile_35;
+            //this.btnProfile.Image = global::GreyGym.Properties.Resources.icons8_profile_35;
             this.btnProfile.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnProfile.Location = new System.Drawing.Point(3, 411);
             this.btnProfile.Name = "btnProfile";
@@ -106,7 +106,7 @@
             // 
             this.btnMember.BackColor = System.Drawing.Color.Azure;
             this.btnMember.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMember.Image = global::GreyGym.Properties.Resources.icons8_membership_35;
+            //this.btnMember.Image = global::GreyGym.Properties.Resources.icons8_membership_35;
             this.btnMember.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnMember.Location = new System.Drawing.Point(3, 281);
             this.btnMember.Name = "btnMember";
@@ -119,7 +119,7 @@
             // 
             this.btnHome.BackColor = System.Drawing.Color.Azure;
             this.btnHome.Font = new System.Drawing.Font("Segoe UI Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnHome.Image = global::GreyGym.Properties.Resources.icons8_home_35;
+            //this.btnHome.Image = global::GreyGym.Properties.Resources.icons8_home_35;
             this.btnHome.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnHome.Location = new System.Drawing.Point(3, 213);
             this.btnHome.Name = "btnHome";
@@ -142,7 +142,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = global::GreyGym.Properties.Resources.image_Photoroom__3_;
+          //  this.pictureBox1.BackgroundImage = global::GreyGym.Properties.Resources.image_Photoroom__3_;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox1.Location = new System.Drawing.Point(29, 37);
             this.pictureBox1.Name = "pictureBox1";
