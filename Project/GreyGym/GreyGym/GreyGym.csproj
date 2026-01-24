@@ -71,6 +71,24 @@
     <Compile Include="CustomerWorkout.Designer.cs">
       <DependentUpon>CustomerWorkout.cs</DependentUpon>
     </Compile>
+    <Compile Include="EmployeeHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeHome.Designer.cs">
+      <DependentUpon>EmployeeHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpProfile.Designer.cs">
+      <DependentUpon>EmpProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipment.Designer.cs">
+      <DependentUpon>Equipment.cs</DependentUpon>
+    </Compile>
     <Compile Include="ProfileUpdateInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -175,6 +193,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CustomerWorkout.resx">
       <DependentUpon>CustomerWorkout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeHome.resx">
+      <DependentUpon>EmployeeHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpProfile.resx">
+      <DependentUpon>EmpProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment.resx">
+      <DependentUpon>Equipment.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
