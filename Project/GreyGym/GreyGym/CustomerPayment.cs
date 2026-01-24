@@ -75,11 +75,10 @@ namespace GreyGym
 
             con.Open();
 
-            SqlCommand cnn = new SqlCommand("insert into Amount Values(@Amount, @Method, @PaymentStatus, @Goal)", con);
+            SqlCommand cnn = new SqlCommand("insert into Amount Values(@Amount, @Method,)", con);
 
             cnn.Parameters.AddWithValue("@Amount", double.Parse(AmountTb.Text));
             cnn.Parameters.AddWithValue("@Method", PayoptionTb.Text);
-            cnn.Parameters.AddWithValue("@PaymentStatus",txtGmail.Text );
             
 
             cnn.ExecuteNonQuery();
@@ -153,6 +152,18 @@ namespace GreyGym
 
             DataTable dt = ds.Tables[0];
             connection.Close();
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            CustomerProfile customerProfile = new CustomerProfile();
+            customerProfile.Show();
+            this.Hide();
+        }
+
+        private void PaymentDGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

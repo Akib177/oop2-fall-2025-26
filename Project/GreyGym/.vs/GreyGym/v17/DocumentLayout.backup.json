@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|d:\\education\\7th semester  (fall 25-26)\\oop 2 (c#)\\oop2-fall-2025-26\\project\\greygym\\greygym\\managerialview(packages).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(packages).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(userpackage).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(userpackage).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|solutionrelative:greygym\\managerialview(user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6763EE-5123-40AD-B4F5-DEA0D246DAB3}|GreyGym\\GreyGym.csproj|D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\greygym\\managerialview(traineruser) .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -261,7 +261,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 320,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -273,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "login.cs",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\login.cs",
               "RelativeDocumentMoniker": "GreyGym\\login.cs",
@@ -297,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "login.cs [Design]",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\login.cs",
               "RelativeDocumentMoniker": "GreyGym\\login.cs",
@@ -354,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeHome.cs [Design]",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\EmployeeHome.cs",
               "RelativeDocumentMoniker": "GreyGym\\EmployeeHome.cs",
@@ -411,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PackageDash.cs [Design]",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\PackageDash.cs",
               "RelativeDocumentMoniker": "GreyGym\\PackageDash.cs",
@@ -456,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ManagerialView(Incident).cs [Design]",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Incident).cs",
@@ -467,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ManagerialView(Packages).cs [Design]",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Packages).cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Packages).cs",
@@ -490,18 +490,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "ManagerialView(User).cs [Design]",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(User).cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(User).cs",
               "ToolTip": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(User).cs [Design]",
               "RelativeToolTip": "GreyGym\\ManagerialView(User).cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:56:34.158Z"
+              "WhenOpened": "2026-01-21T07:56:34.158Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ManagerialView(UserPackage).cs [Design]",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(UserPackage).cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(UserPackage).cs",
@@ -512,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ManegerialView(Amount).cs [Design]",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManegerialView(Amount).cs",
               "RelativeDocumentMoniker": "GreyGym\\ManegerialView(Amount).cs",
@@ -523,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Packages.cs [Design]",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\Packages.cs",
               "RelativeDocumentMoniker": "GreyGym\\Packages.cs",
@@ -720,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ManagerialView(Packages).cs",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Packages).cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Packages).cs",
@@ -755,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PackageDash.Designer.cs",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\PackageDash.Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\PackageDash.Designer.cs",
@@ -767,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ManegerialView(Amount).Designer.cs",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManegerialView(Amount).Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\ManegerialView(Amount).Designer.cs",
@@ -823,7 +824,8 @@
               "RelativeToolTip": "GreyGym\\ManagerialView(User).Designer.cs",
               "ViewState": "AgIAAH8CAAAAAAAAAAAYwL0CAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:56:46.22Z"
+              "WhenOpened": "2026-01-21T07:56:46.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -835,7 +837,8 @@
               "RelativeToolTip": "GreyGym\\ManagerialView(User).cs",
               "ViewState": "AgIAAP0AAAAAAAAAAAAuwMMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:56:41.568Z"
+              "WhenOpened": "2026-01-21T07:56:41.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -863,7 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ManagerialView(Incident).Designer.cs",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Incident).Designer.cs",
@@ -875,7 +878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ManagerialView(Incident).cs",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\ManagerialView(Incident).cs",
               "RelativeDocumentMoniker": "GreyGym\\ManagerialView(Incident).cs",
@@ -995,7 +998,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "login.Designer.cs",
               "DocumentMoniker": "D:\\Education\\7th Semester  (Fall 25-26)\\OOP 2 (C#)\\oop2-fall-2025-26\\Project\\GreyGym\\GreyGym\\login.Designer.cs",
               "RelativeDocumentMoniker": "GreyGym\\login.Designer.cs",

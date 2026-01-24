@@ -20,7 +20,7 @@ namespace GreyGym
 
         private void button2_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection("Data Source=RAHUL_SARKER\\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
+            SqlConnection con = new SqlConnection(@"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";);
        
 
             string query = ("SELECT Package.PackageName, UserPackage.IsActive FROM UserPackage INNER JOIN Package ON UserPackage.PackageId = Package.PackageId "); ;

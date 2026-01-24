@@ -20,7 +20,7 @@ namespace GreyGym
         }
         public void Getgrid()
         {
-            SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True ");
+            SqlConnection con = new SqlConnection(@"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";);
             con.Open();
             SqlDataAdapter da = new SqlDataAdapter("select * from UserInfo", con);
             DataSet ds = new DataSet();
@@ -30,7 +30,7 @@ namespace GreyGym
         }
         private void button8_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True ");
+            SqlConnection con = new SqlConnection(@"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";);
             SqlCommand cmd = new SqlCommand("delete from UserInfo where Id='" + textBox1.Text + "'", con);
             cmd.ExecuteNonQuery();
             MessageBox.Show("deleted");
@@ -41,7 +41,7 @@ namespace GreyGym
 
         private void button2_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True ");
+            SqlConnection con = new SqlConnection(@"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";);
             con.Open();
 
             SqlCommand cmd = new SqlCommand("Insert into UserInfo values('" + txtName.Text + "','" + textGmail.Text + "','" + txtPhone.Text  +"','" + txtPass.Text + "')", con);
@@ -72,7 +72,7 @@ namespace GreyGym
 
         private void button9_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(@"Data Source=RAHUL_SARKER\\TEW_SQLEXPRESS;Initial Catalog=gymmananagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");  
+            SqlConnection con = new SqlConnection(@"Data Source=AKIB\SQLEXPRESS;Initial Catalog=GreyGym;Integrated Security=True;TrustServerCertificate=True";);  
             con.Open();
 
             SqlCommand cmd = new SqlCommand("update UserInfo set  Name='" + txtName.Text + "',Gmail='" + textGmail.Text + "',Phone='" + txtPhone.Text + "', Password='" + txtPass.Text + "', where ID='" + textBox1.Text + "'", con);
