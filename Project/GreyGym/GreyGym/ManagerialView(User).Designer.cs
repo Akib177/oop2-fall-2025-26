@@ -166,7 +166,7 @@
             this.cmbUserType.Items.AddRange(new object[] {
             "Customer",
             "Trainer",
-            "Office-Clerk"});
+            "Employee"});
             this.cmbUserType.Location = new System.Drawing.Point(14, 385);
             this.cmbUserType.Margin = new System.Windows.Forms.Padding(2);
             this.cmbUserType.Name = "cmbUserType";

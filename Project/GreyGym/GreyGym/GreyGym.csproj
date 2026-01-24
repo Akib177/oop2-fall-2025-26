@@ -218,6 +218,9 @@
     <EmbeddedResource Include="ManagerialView%28Packages%29.resx">
       <DependentUpon>ManagerialView%28Packages%29.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ManagerialView%28User%29.resx">
+      <DependentUpon>ManagerialView%28User%29.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PackageDash.resx">
       <DependentUpon>PackageDash.cs</DependentUpon>
     </EmbeddedResource>
